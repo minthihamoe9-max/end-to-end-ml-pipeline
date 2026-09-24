@@ -1,0 +1,205 @@
+EX-10.01 2 ex10-01.htm TRANSITION SERVICES AGREEMENT Tonix Pharmaceuticals Holding Corp, Inc. 8-K Exhibit 10.01 TRANSITION SERVICES AGREEMENT This Transition Services
+Agreement (this “ Agreement ”) is entered into as of June [30], 2023 (the “ Effective Date ”) by and
+between Upsher-Smith Laboratories, LLC, a Minnesota limited liability company having its principal place of business located at 6701 Evenstad
+Drive, Maple Grove, MN 55369 (“ Seller ”), and Tonix Medicines, Inc. (a wholly-owned subsidiary of Tonix Pharmaceuticals
+Holding Corp.), a Delaware corporation having its principal place of business located at 26 Main Steet, Suite 101, Chatham, NJ 07928 (“ Purchaser ” ).
+Seller and Purchaser may each be referred to herein individually as a “ Party ” and together as the “ Parties ”
+to this Agreement. Capitalized terms used herein and not otherwise defined shall have the meanings ascribed to such terms in the Asset
+Purchase Agreement (as defined below). RECITALS WHEREAS , Seller
+and Purchaser have entered into that certain Asset Purchase Agreement, dated as of June [23], 2023 (the “ Asset Purchase Agreement ”),
+pursuant to which, Seller has agreed to sell, transfer and assign to Purchaser, the Purchased Assets, and Purchaser has agreed to purchase
+the Purchased Assets from Seller; and WHEREAS , in order
+to facilitate the transition of the Business to Purchaser and as contemplated in the Asset Purchase Agreement, Seller and Purchaser have
+agreed to enter into this Agreement as of the Closing, pursuant to which Seller will provide Purchaser with certain services, in each
+case on a transitional basis and subject to the terms and conditions set forth herein. NOW, THEREFORE ,
+in consideration of the mutual agreements and covenants hereinafter set forth, Seller and Purchaser hereby agree as follows: ARTICLE
+1 Services 1.1 Provision of Services . Subject to the terms and conditions of this Agreement, Seller shall
+perform the services for Purchaser set forth on Exhibit A (as such Exhibit A may be amended or supplemented by
+the Parties in writing from time to time, the “ Services ”). As designated under each of the Services on Exhibit A ,
+Seller will, among other Services: (a) manage and perform Purchaser’s obligations under the designated Acquired Contracts on behalf
+of Purchaser, at Purchaser’s expense (subject to Section 1.9 ), and at the direction of Purchaser, and transition such relationships
+to Purchaser, and (b) provide certain Services solely with respect to the Products under existing Seller direct contracts with designated
+third parties (the “ Seller Third Party Contracts ”), including the sale and distribution of Product under the Customer
+Contracts identified on Schedule 1 to Exhibit A . The Services provided under Seller Third Party Contracts shall be at Purchaser’s
+expense (subject to Section 1.9 ) and shall be subject in all respects to the terms of those contracts, including Seller’s
+confidentiality obligations to the counterparties and any applicable restrictions under those contracts, and shall continue, as to each
+Seller Third Party Contract, until such time as the applicable Service expires or terminates, or the earlier date on which Purchaser notifies
+Seller in writing that Purchaser has entered into its own contract with a counterparty to a Seller Third Party Contract. On the Effective
+Date, Purchaser will deliver to Seller a letter of authorization, in substantially the form attached as Exhibit B , granting to
+Seller the authority to manage and perform Purchaser’s obligations under the Acquired Contracts designated on Exhibit B on
+behalf of Purchaser during the Term of this Agreement until such time as the applicable Service is terminated in accordance with this
+Agreement. 1.2 Service
+Coordinators. Each Party shall designate one or more of its employees having sufficient knowledge and background to act as the
+principal point-of-contact between the Purchaser and Seller in order to coordinate the provision of each of the Services under this
+Agreement (each, a “ Service Coordinator ”). Each of the Purchaser and
+Seller may change one or more of its Service Coordinators upon written notice to the other. The Service Coordinators will meet and
+discuss the coordination of the Services on a regular basis, or from time to time, as reasonably requested by either Purchaser or
+Seller, to discuss the Services and any issues with respect thereto. It is expected that, commencing on July 5, 2023, the Service
+Coordinators will make appropriate members of their respective teams available to participate on routine operations calls, at times
+to be mutually agreed by the Service Coordinators, to share information and review the general operation of the Services. In no
+event shall the Service Coordinators or participants on an operations call have the authority to amend this Agreement, including Exhibit A . 1.3 Standard of Service . Seller shall at all times perform or cause the Services to be performed
+(a) with the use of reasonable care, efforts, skill and judgment and in a manner that that is at least of the same nature, quality
+standards, timeliness, operational, performance and other service levels and standards as substantially consistent with Seller’s
+past practices during the six (6) months prior to the Effective Date (subject to the changes described in the Asset Purchase Agreement
+and the Seller Disclosure Schedules); and (b) in compliance with all applicable Laws. Seller shall be responsible for providing or
+arranging for the provision of the necessary resources, systems, facilities, equipment, and personnel as are reasonably necessary to provide
+the Services substantially consistent with Seller’s past practices during the six (6) months prior to the Effective Date (subject
+to the changes described in the Asset Purchase Agreement and the Seller Disclosure Schedules) and in accordance with this Agreement. 1.4 Information Sharing . Seller will keep Purchaser reasonably informed with regard to the Services.
+As part of the Services, Seller will generate and maintain the Product-related data and reports described on Exhibit A, and will
+provide Purchaser with reasonable and regular access (in real-time, where available) to all such data and reports and the readily-available
+underlying support and internal control information for such data and reports. 1.5 Cooperation . During the Term (as defined below) and for up to six (6) months after any expiration
+or termination of this Agreement in its entirety, Seller will reasonably cooperate with Purchaser to ensure a smooth transition of the
+Services from Seller to Purchaser, including by making Seller personnel who are knowledgeable about the Services reasonably available
+to Purchaser to answer questions and provide requested documents and information. 1.6 Acquired Contracts and Seller Third Party Contracts . The Acquired Contracts were assigned
+to Purchaser as of the Effective Date. All Services provided by Seller under the Acquired Contracts and Seller Third Party Contracts are
+on behalf of Purchaser and at Purchaser’s direction. Seller shall not be responsible or liable for the actions and omissions of
+any third party under any Acquired Contract or Seller Third Party Contract. If the counterparty to a Seller Third Party Contract breaches
+such Seller Third Party Contract in connection with the Services, then Seller will use reasonable efforts, at Purchaser’s expense,
+to enforce such Seller Third Party Contract with respect to such breach and will pass through to Purchaser the benefit of any rights and
+remedies available to Seller with respect to such breach. 1.7 Employees .
+For such time as any employees of Seller are providing the Services under this Agreement, such employees (a) shall remain
+employees of Seller, and (b) shall not be deemed to be employees of the Purchaser or any other party receiving such Service for
+any purpose. The terms of this Agreement are not intended to cause any of the Parties to become a joint employer for any purpose.
+Seller’s employees shall at all times remain subject to the direction and control of Seller, and Purchaser shall have no
+responsibility or liability to such individuals whatsoever, whether by virtue of the relationships established between Seller and
+Purchaser in connection with this Agreement or otherwise. Seller shall be solely responsible for such employees, including, but not
+limited to, their welfare, salaries, wages, bonuses and commissions, fringe benefits, employee benefits, including severance and
+worker’s compensation, and legally-required employer contributions and tax obligations,
+including the withholding and payment of applicable taxes relating to such employment. 2 1.8 Additional Services . Seller shall consider in good faith any reasonable request by the Purchaser
+for access to any additional services that are not included in the Services, but which Seller performed for its own account in the operation
+of the Business prior to the Effective Date (the “ Additional Services ”), provided that Seller shall be under no obligation
+to provide any Additional Services in its sole discretion. Any such Additional Services that Seller agrees in writing to perform shall
+be subject to additional Service Fees as may be mutually agreed in writing by the Parties. Any Additional Services set forth on an amendment
+to Exhibit A , signed by both Parties, shall constitute Services under this Agreement and be subject in all respects to the
+provisions of this Agreement for the duration of the Term. 1.9 Service Fees; Expense Reimbursement . As consideration for Seller providing the Services in
+accordance with this Agreement, Purchaser shall pay to Seller the sum of the monthly service fee amounts specified on Exhibit A until the applicable End Date for each Service, subject to the applicable Base Monthly Service Fee set forth on Exhibit A (the
+“ Service Fees ”). In addition to the Service Fees, Purchaser shall reimburse Seller for the amount of all out-of-pocket
+expenditures made on behalf of Purchaser in the ordinary course of performance of the Services, subject to pre-approval by Purchaser in
+writing (email sufficient) of expenses over $5,000 in each individual case (the “ Expense Reimbursements ”); provided , however , that Purchaser will not be responsible for any expenses incurred by Seller for payments to a third party service provider
+or other subcontractor with respect to any aspect of the Services that Seller performed for itself at any time during the twelve (12)
+months prior to the Effective Date. Seller will deduct the Service Fees and Expense Reimbursements owed to Seller by Purchaser from any
+amounts remitted to Purchaser as further described under the heading “Commercial Operations Services” on Exhibit A .
+If the Commercial Operations Services have been terminated, or if the amount of a remittance is insufficient in any month to cover the
+amount of the applicable Services Fees and Expense Reimbursements, then Seller shall invoice Purchaser for the remaining amount of Services
+Fees and Expense Reimbursements due and Purchaser shall pay the invoice within 5 Business Days of receipt of the invoice. ARTICLE
+2 TERM
+AND TERMINATION 2.1 Term . (a) Unless terminated earlier in accordance with Section 2.2 , the term of this Agreement
+(the “ Term ”) shall begin on the Effective Date and shall continue until the End Date (as defined below) for the last-to-expire
+category of Services. (b) Seller shall commence providing the Services upon the Effective Date and shall continue to provide
+each particular category of Services until the earlier of (i) the end date set forth on Exhibit A for such category of
+Services (as such end date may be extended only by the mutual, written agreement of the Parties prior to the 10 th day of the
+month of the end date set forth on Exhibit A , the “ End Date ”); and (ii) termination of such category of
+Services by Purchaser at the end of a calendar month following advance written notice thereof to Seller no later than the 10 th day of such month. In the event the Parties mutually agree to extend the End Date for a given category of Services, an amendment to Exhibit A will be executed to reflect the agreed term extension and additional Service Fees to be charged by Seller for the Services during such
+extended term. Except as set forth in Section 1.5 , Seller has no obligation to provide Services following the expiration or earlier
+termination of this Agreement or any particular Service. 3 2.2 Termination . (a) In the event a Party (the “ Breaching Party ”) fails to perform any of its material
+obligations under this Agreement and such failure remains uncured for a period of thirty (30) days after written notice of such failure
+by the other Party (the “ Non-Breaching Party ”), the Non-Breaching Party may immediately terminate this Agreement upon
+written notice of such termination to the Breaching Party. If Seller is unable to perform a Service on account of: (i) the action
+or inaction of a third party engaged by the Purchaser, or (ii) a Force Majeure Event (as defined in Section 2.4), then, in each
+case, Seller’s inability to perform shall not constitute a breach of the Agreement. 2.3 Effect of Expiration or Termination . (a) Upon any expiration or termination of this Agreement in its entirety, all Services and other obligations
+of the Parties under this Agreement shall automatically terminate, except for those provisions set forth in Section 5.9 , which
+shall survive any termination or expiration of this Agreement. Expiration or termination of one Service hereunder shall not terminate
+any other Services hereunder. (b) Termination of this Agreement or any of the Services hereunder shall not release either Party from
+any liability or other obligation incurred prior to the effective date of such termination or expiration. 2.4 Force Majeure Event . If Seller is prevented from or delayed in complying, either totally or
+in part, with any of the terms or provisions of this Agreement by reason of fire, flood, storm, strike, walkout, lockout, delays by unaffiliated
+suppliers or carriers, shortages of fuel, power, raw materials or components, any law, order, proclamation, regulation, ordinance, demand,
+seizure or requirement of any governmental authority, riot, civil commotion, war, rebellion, governmental orders (including executive
+orders), laws, restrictions, regulations, actions, mandates, ordinances, injunctions or decrees, pandemics, epidemics or quarantines,
+national, regional, state, or local emergency declarations, acts of terrorism, nuclear accident or other causes beyond the reasonable
+control of any such Person or other acts of God, or acts, omissions or delays in acting by any governmental or military authority or Purchaser
+(a “ Force Majeure Event ”), then upon notice to Purchaser, Seller’s performance of the affected provisions and/or
+other requirements of this Agreement (excluding the Term) shall be suspended during the period of such Force Majeure Event and Seller
+shall have no liability to Purchaser or any other Person in connection therewith (provided that, if requested by Purchaser, the Parties
+will discuss in good faith the potential extension of the Term in light of such suspension). Purchaser’s obligation to pay the applicable
+Service Fees and expense reimbursement while the Force Majeure Event is continuing shall also be suspended with respect to the categories
+of Services that are subject to the Force Majeure Event, but Purchaser’s obligation to pay the Base Monthly Service Fee will continue
+for the duration of the Force Majeure Event. Seller and Purchaser shall make commercially reasonable efforts to remove such Force Majeure
+Event or mutually terminate the applicable Service if the Force Majeure Event continues for longer than 60 days. ARTICLE
+3 Confidentiality
+AND INTELLECTUAL PROPERTY 3.1 Confidentiality . The provisions set forth in Section 7.05 of the Asset Purchase
+Agreement are hereby incorporated by reference and shall apply mutatis mutandis . Any and all Confidential Information disclosed
+under this Agreement, including, but not limited to, information that is developed or generated in connection with the performance of
+the Services, shall be subject to the terms and conditions of Section 7.05 of the Asset Purchase Agreement. 4 3.2 Intellectual Property . Except as otherwise expressly provided in this Agreement or any other
+Transaction Document, each Party shall retain ownership of the Intellectual Property that it owns immediately following the Closing and
+any derivative works, additions, modifications, translations or enhancements thereof created by a Party pursuant to this Agreement. To
+the extent that any Intellectual Property arises out of the performance of this Agreement, Seller will own all such Intellectual Property
+relating to the Services, except that any Intellectual Property related solely and exclusively to the Purchased Assets is hereby assigned
+to Purchaser. Seller hereby grants Purchaser a non-exclusive, perpetual, irrevocable, royalty-free, transferable, sublicensable license
+with respect to any other Intellectual Property related to the Purchased Assets and any work product and deliverables generated or provided
+by Seller in connection with the Services. ARTICLE
+4 REPRESENTATIONS AND WARRANTIES; LIMITATION
+ON LIABILITY 4.1 Representations and Warranties . Each Party represents and warrants to the other that: (a) it is a legal entity validly existing and in good standing under the Laws of the jurisdiction of
+its organization; (b) it has all necessary power and authority, and has taken all action necessary, to authorize, execute,
+deliver and perform this Agreement, in accordance with the terms of this Agreement; and (c) this Agreement has been duly and validly executed and delivered by such Party, and, assuming the
+due authorization, execution and delivery by the other Party, constitutes a valid, legal and binding agreement of such Party, enforceable
+against such Party in accordance with its terms, subject to the effect of any applicable Laws relating to bankruptcy, reorganization,
+insolvency, moratorium, fraudulent conveyance or preferential transfers, or similar Laws relating to or affecting creditors’ rights
+generally and subject, as to enforceability, to the effect of general principles of equity (regardless of whether such enforceability
+is considered in a proceeding at equity or at Law). 4.2 Limitation on Liability . Except in the event of a Party’s gross negligence, fraud or
+willful misconduct, and without limiting either Party’s rights or obligations under Article IX of the Asset Purchase Agreement
+and Section 4.4 of this Agreement, in no event shall either Party have any liability under any provision of this Agreement for
+any punitive, incidental, consequential, special or indirect damages (including loss of future revenue or income, loss of business reputation
+or opportunity, or diminution of value or any damages based on any type of multiple) in each case to the extent relating to the breach
+or alleged breach of this Agreement and whether based on statute, contract, tort or otherwise, and whether or not arising from sole, joint,
+or concurrent negligence, strict liability, criminal liability or other fault. Notwithstanding the foregoing, except in the event of a
+Party’s gross negligence, fraud or willful misconduct, and without limiting either Party’s rights or obligations under Article
+IX of the Asset Purchase Agreement and Section 4.4 of this Agreement, if either Party suffers Losses arising out of this Agreement,
+which Losses were caused by the other Party’s breach of this Agreement, the sole liability of such breaching Party shall be (i) if
+the breaching Party is the Party that performed the Service, to refund the Service Fees for the relevant Service paid for but not properly
+performed, or (ii) if the breaching Party is not the Party that performed the Service, to pay the Service Fees if payable but not
+otherwise paid. Except in the event of Seller’s gross negligence, fraud or willful misconduct, and without limiting either Party’s
+rights or obligations under Article IX of the Asset Purchase Agreement and Section 4.4 of this Agreement, in no event shall
+Seller have aggregate liability under this Agreement in excess of the total Service Fees received pursuant to this Agreement. 5 4.3 DISCLAIMER OF WARRANTIES . EXCEPT AS SPECIFICALLY SET FORTH HEREIN, SELLER DISCLAIMS ANY AND
+ALL WARRANTIES, CONDITIONS OR REPRESENTATIONS (EXPRESS OR IMPLIED, ORAL OR WRITTEN) WITH RESPECT TO THE SERVICES, AND ANY SOFTWARE AND
+EQUIPMENT PROVIDED AS PART OF THE SERVICES, INCLUDING ANY AND ALL IMPLIED WARRANTIES OR CONDITIONS OF TITLE, NONINFRINGEMENT, ACCURACY
+OF INFORMATIONAL CONTENT, MERCHANTABILITY, OR FITNESS OR SUITABILITY FOR ANY PURPOSE (WHETHER OR NOT SELLER KNOWS OR HAS REASON TO KNOW
+ANY SUCH PURPOSE), WHETHER ALLEGED TO ARISE BY LAW, BY REASON OF CUSTOM OR USAGE IN THE TRADE, OR BY COURSE OF DEALING. 4.4 Indemnification . Each Party (the “ Indemnitor ”) shall indemnify and defend
+the other Party, its Affiliates and each of their respective employees, managers, directors, officers, equityholders, agents and representatives
+(each an “ Indemnitee ”), and shall hold each of them harmless from, any and all Losses incurred or sustained by an Indemnitee
+in connection with any Third Party Claim to the extent arising out, relating to or resulting from the Indemnitor’s (a) breach of
+this Agreement or (b) gross negligence, fraud or willful misconduct in connection with the provision or receipt of the Services. ARTICLE
+5 MISCELLANEOUS 5.1 Independent Contractors . The respective rights and obligations of Purchaser and Seller under
+this Agreement shall be limited to the contractual rights and obligations expressly set forth herein on the terms and conditions set forth
+herein. It is expressly agreed that Seller, on the one hand, and Purchaser, on the other hand, will be independent contractors and that
+neither this Agreement nor the relationship between the Parties will be construed as creating a partnership, joint venture or agency.
+Neither Seller, on the one hand, nor Purchaser, on the other hand, will have the authority to make any statements, representations or
+commitments of any kind, or to take any action or to incur any liability or obligation which will be binding on the other, without the
+prior consent of the other Party to do so. All persons employed by a Party will be employees of such Party and not of the other Party
+and all costs and obligations incurred by reason of any such employment will be for the account and expense of such Party. 5.2 Notices . All notices, requests, consents, claims, demands, waivers, and other communications
+hereunder shall be in writing and shall be deemed to have been given: (i) when delivered, if delivered personally to the intended
+recipient; (ii) when received by the addressee, if sent by an internationally recognized overnight courier service; (iii) on
+the date sent by email (with confirmation of receipt of the email and any attachments); or (iv) on the fifth (5th) day after the
+date mailed, by certified or registered mail, return receipt requested, postage prepaid. Such communications must be sent to the respective
+Parties at the following addresses (or at such other address for a Party as shall be specified in a notice given in accordance with this Section 5.2 ): (a) if to Seller: Upsher-Smith Laboratories, LLC 6701 Evenstad Drive Maple Grove, MN 55369 Email: Rich.Fisher@upsher-smith.com Attention: President 6 With a copy (which shall not constitute notice) to: Upsher-Smith Laboratories, LLC 6701 Evenstad Drive Maple Grove, MN 55369 Email: USLContracts@upsher-smith.com Attention: General Counsel With a copy (which shall not constitute notice) to: Ballard Spahr LLP 80 South Eighth Street, Suite 2000 Minneapolis, MN 55402 Email: rummelb@ballardspahr.com Attention: Barbara Rummel (b) if to Purchaser: Tonix Medicines, Inc. 26 Main Steet, Suite 101 Chatham, NJ 07928 Email: jim.hunter@tonixpharma.com Attention: James Hunter, Executive VP Commercial Operations With a copy (which shall not constitute notice) to: Lowenstein Sandler LLP One Lowenstein Drive Roseland, New Jersey 07068 Email: mlerner@lowenstein.com Attention: Michael J. Lerner, Esq. 5.3 Headings . The headings used in this Agreement are intended for convenience only and will not
+be considered part of the written understanding among the Parties and will not affect the construction of this Agreement. 5.4 Entire Agreement . This Agreement (including any Exhibits attached hereto and expressly referenced
+herein), constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements
+and understandings, whether oral or written, with respect to such subject matter. Each Party confirms that no representations, warranties,
+covenants or understandings of any kind, nature or description whatsoever are being made or relied upon by any Party with respect to this
+Agreement, except such as are as specifically set forth herein. For clarity, the Asset Purchase Agreement shall not be superseded by this
+Agreement and shall be construed to have independent force and effect. 5.5 Successors and Assigns; Assignment . This Agreement shall be binding upon and shall inure
+to the benefit of the Parties hereto and their respective successors and permitted assigns. Neither Party may assign or delegate this
+Agreement or its rights or obligations hereunder, in whole or in part, without the prior written consent of the other Party, which consent
+shall not be unreasonably withheld, conditioned or delayed; provided , however , that either Party may assign this Agreement
+without any obligation to obtain the other Party’s consent in connection with a permitted assignment of the Asset Purchase Agreement
+or in connection with a merger or sale of substantially all of the assets of such Party, so long as such assignee or successor
+becomes obligated to perform the obligations of the assigning Party incurred or arising after the effective date of such assignment .
+No assignment shall relieve the assigning party of any of its obligations or Liabilities hereunder incurred or arising prior to the effective
+date of such assignment. Any assignment in breach of this Section 5.5 shall be null and void ab initio . 7 5.6 No Third Party Beneficiaries . This Agreement is for the sole benefit of the Parties hereto
+and their respective successors and permitted assigns. Nothing in this Agreement, express or implied, is intended to or shall confer on
+any other Person any legal or equitable right, benefit, or remedy of any nature whatsoever. 5.7 Amendment and Waiver . This Agreement, including any Exhibits attached hereto and expressly
+referenced herein, may only be amended, modified or otherwise changed, in whole or in part, in a writing specified to be an explicit amendment
+to this Agreement duly executed by authorized representatives of each of the Parties. No waiver by any Party of any of the provisions
+hereof shall be effective unless explicitly set forth in writing and signed by the Party so waiving. No waiver by any Party shall operate
+or be construed as a waiver in respect of any failure, breach or default not expressly identified by such written waiver, whether of a
+similar or different character, and whether occurring before or after that waiver. No failure to exercise, or delay in exercising, any
+right, remedy, power or privilege arising from this Agreement shall operate or be construed as a waiver thereof; nor shall any single
+or partial exercise of any right, remedy, power or privilege hereunder preclude any other or further exercise thereof or the exercise
+of any other right, remedy, power or privilege. 5.8 Governing Law; Jurisdiction . (a) The provisions of Sections 11.08 , 11.09 and 11.10 of the Asset Purchase Agreement
+are incorporated herein by reference, mutatis mutandis , except that reference to the Agreement in such provisions shall be deemed
+to refer to this Agreement. 5.9 Survival . The provisions of Section 1.5 , Section 2.3 , ARTICLE 3 , ARTICLE 4 and ARTICLE 5 shall survive the expiration or earlier termination of this Agreement, as well as any other provisions
+which by their terms survive such expiration or termination. 5.10 Counterparts . This Agreement may be executed in counterparts, each of which shall be deemed
+an original, but all of which together shall be deemed to be one and the same agreement. A signed copy of this Agreement delivered by
+facsimile, email, or other means of electronic transmission shall be deemed to have the same legal effect as delivery of an original signed
+copy of this Agreement. [ signature page follows ] 8 IN WITNESS WHEREOF , the
+Parties hereto have caused this Agreement to be executed as of the date first written above by their respective officers thereunto duly
+authorized. SELLER Upsher-Smith Laboratories, LLC By: /s/ Rich Fischer Name: Rich Fischer Title:  President & COO PURCHASER Tonix Medicines, Inc. By: /s/ James Hunter Name: James Hunter Title: President [Signature page to Transition Services Agreement] EXHIBIT A SERVICES A- 1 EXHIBIT B LETTER OF AUTHORIZATION B- 1 EXHIBIT C BLANKET PURCHASE ORDER C- 1

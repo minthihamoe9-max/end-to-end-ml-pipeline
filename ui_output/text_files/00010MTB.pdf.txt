@@ -1,0 +1,785 @@
+Modification Summary Report
+
+Contract (PO) Number: 17063
+Modification Revision Number:
+Specification Number: 59775
+Name of Contractor: SYSTEM DEVELOPMENT INTEGRATION, INC
+(City Department: DEPT OF FLEET MGMT
+
+_ SUPPORT SERVICES FOR MAXIMUS FLEETFOCUS M$
+Title of Contract: SUPPOR
+
+‘Mod Rea Number ‘Mod Reason Descrition
+AMEND PO # 17063 FOR
+SUPPORT SERVICES POR
+
+ss MAXIMUS FLLETFOCUS Ms
+s7073 TIME EXTENSION Sax FLEET
+BeEvELOPMENT IxTEGRATION,
+
+‘Term of Contract: Start Date: 71/2908
+End Date: 6/30/2012
+
+Procurement Services Contact Person: JOSEPH CHAN
+
+‘Please refer tothe DPS website for Contact information under "Doing Business With The City”
+
+‘Vendor Number: 1055985
+
+Submission Date:
+
+“PR 2 6 ZOE
+
+Specification No.: 59775
+Contract (P.0.) No 17063 (“Agreement”)
+Amendment No: 1
+
+Vendor No. 10559854,
+
+Mod Requisition No. $7073,
+
+AMENDMENT NO. 1
+
+This amendment (“Amendment”) is made and entered into effective as of the ___day
+of, + 2012 by and between the CITY OF CHICAGO City”), a
+‘municipal corporation and home rule unit of local government existing under the Constitution of
+the State of Illinois, acting through its Department of Fleet Management (“Department”), at
+Chicago, Ilinois, and System Development Integration, LLC, (“Consultant”), a Delaware
+limited liability company with its principal place of business at 33 West Monroe, Suite 400,
+Chicago, Minois 60608.
+
+Whereas, the City and Consultant have heretofore entered into an agreement for “Support
+Services for Maximus Fleetfocus M4 System” for the Department of Fleet Management dated
+the Ist day of July, 2008 (hereinafter referred to as the “Agreement”) whereby Consultant
+provides certain software and services described in the Agreement (“Services”) therein set forth
+for the City; and
+
+The parties agree as follows:
+
+‘TERMS AND CONDITIONS
+
+1, Article 4, Duration of Agreement, Section 4.1, Term of Performance, is
+amended to extend the Agreement through June 30, 2012 or until a new agreement for the
+services is fully executed, whichever occurs first.
+
+Article 5, Compensation, Section 5.3, Funding, is deleted and replaced in its
+entirety with the following:
+
+“The source of funds for payments under this Agreement is Fund Number 007-0100-040-
+(0402035-0360. The maximum funding from fund number above is $1,123,528.00; the maximum
+funding increase under this Amendment {rom the fund number 01 1-0100-0402035-0140-220140,
+is $399,436.00. Payments under this Agreement must not exceed $1,522,964,00 (the “Maximum
+Compensation”) without a written amendment in accordance with Section 10.3. Funding for this
+Agreement is subject to the availability of funds and their appropriation by the City Council of
+the City.”
+
+3. Article 5, Compensation, is amended by adding a new Section 5.7, Invoices, as
+follows:
+
+“5.7 Invoices
+
+‘This contract is subject to Centralized Invoice Processing ("CIP"), Invoices must be
+submitted directly to the Comptroller's office by US Postal Service mail tothe following address:
+
+INVOICES
+City of Chicago, Office ofthe City Comptroller
+33 N. LaSalle St, Room 700
+
+Chicago, IL 60602
+
+oR
+Via email to: INVOICES @cityofchicago.org with the word INVOICE in the subject line,
+
+All invoices must be signed, marked "original," and include the following information or
+
+payment will be delayed:
+
+‘© Invoice number and date
+Contract/Purchase Order number
+Blanket Release number (i applicable)
+‘Vendor name and/or number
+Remittance address
+Name of City Department that ordered the goods or services
+Name and phone number of your contact atthe ordering department
+Invoice quantities, commodity codes, description of deliverable(s)
+Amount due
+Receipt number (provided by the ordering department after delivery of goods/services)
+
+Invoice quantities, service description, unit of measure, pricing and/or catalog
+information must correspond to the terms of the compensation schedule
+
+If applicable, if invoicing Price LisvCatalog items, indicate Price ListCatalog number,
+item number, Price LisvCatalog date, and Price LisvCetalog page number on the invoice.
+Invoices for over-shipments or items with price/wage escalations will be rejected unless the
+‘Contract includes a provision for such an adjustment.
+
+Freight, handling and shipping costs are not to be invoiced; deliveries are to be made
+FOB,, City of Chicago. As stated the City of Chicago is exempt from paying State of Hlinois
+sales tax and Federal excise taxes on purchases,
+
+If required, Subcontractor Payment Certification forms must be mailed to the department
+that ordered the goods or services.”
+
+.
+|
+|
+'
+
+4. Article 5, Compensation, is amended by adding a new Section 5.8, Taxes, as
+follows:
+
+“S8 Taxes
+
+Federal Excise Tax does not apply to materials purchased by the City of Chicago by
+virtue of Exemption Certificate No. 36-6005820 and State of Illinois Sales ‘Tax does not apply by
+virtue of Exemption Certificate No. E9998-1874-07. Illinois Retailers Occupation Tax, Use Tax,
+‘and Municipal Retailers Occupation Tax do not apply to materials or services purchased by the
+City of Chicago by virtue of Statute. The price or prices quoted herein shall include all other
+Federal and/or State, direct andlor indirect taxes which apply. The prices quoted herein shall
+‘comply with all Federal laws and regulations.”
+
+5. Article 7, Compliance with All Laws, Section 7.3, Inspector General is deleted
+in its entirety and replaced with te following:
+
+“73. Inspector General
+
+Its the duty of any bidder, proposer or Consultant, all Subcontractors, every applicant
+for certification of eligibility for a City contract or program, and all officers, directors, agents,
+ppartners and employees of any bidder, proposer, Consultant, Subcontractor or such applicant 19
+‘cooperate with the Inspector General or the Legislative Inspector General in any investigation or
+hhearing, if applicable, undertaken pursuant to Chapters 2-56 or 2-55, respectively, of the
+Municipal Code. Consultant understands and will abide by all provisions of Chapters 2-56 and 2-
+535 of the Municipal Code. All subcontracts must inform Subcontractors of the provisions and
+require understanding and compliance with them.”
+
+6 Article 7, Compliance with All Laws, Section 7.6, Chicago “Living Wage”
+Ordinance, subsection (¢) is deleted and replaced in its entirety with the following
+
+“(© As of July 1, 2008, the Base Wage is $10.60 per hour. As of July 1, 2009, the
+[Base Wage is $11.03 per hour. As of July 1, 2010 the Base Wage is $11.03 per hour. ‘As of July
+1, 2011 the Base Wage is $11.18 per hour and each July 1 thereafter, the Base Wage will be
+agjusted using the most recent federal poverty guidelines for a family of four as published
+annually by the US. Department of Health and Human Services, to constitute the following: the
+poverty guidelines for a family of four divided by 2000 hours or the curent base wage,
+Whichever is higher. The currently applicable Base Wage is available from the Department of
+Procurement Services. At all times during the term ofthis Agreement, Consultant and all ether
+Performing Parties must pay the Base Wage (as adjusted in accordance with the above). Ifthe
+payment of prevailing wages is required for Services done under this Agreement, and the
+prevailing wages for Covered Employees are higher than the Base Wage, then Consultant and all
+other Performing Parties must pay the prevailing wage rates”
+
+7. _ Article 7, Compliance with All Laws is amended by adding a new Secti
+
+7.12,
+Office of Compliance as follows:
+
+“742 Office of Compliance
+“Itis the duty of any bidder, proposer, Consultant, Contractor, all Subcontractors, and
+every applicant for certification of eligibility fora City Agreement or program, and all officers,
+directors agents, partners and employees of any bidder, proposer, consultant or such applicant to
+cooperate with the Office of Compliance in any investigation or audit pursuant to Chapter 2-26
+of the Municipal Code of Chicago, The Consultant understands and will abide by all provisions
+of Chapter 2-26 of the Municipal Code of Chicago. All subcontracts will inform Subcontractors
+of this provision and require understanding and compliance with it.”
+
+8 Article 7, Compliance with All Laws, is amended by adding a new Section 7.13,
+Disclosure of Ownership Interest in Entities as follows:
+
+“7.13. Disclosure of Ownership Interest in Entities
+
+‘The Consultant will keep disclosure of ownership interests and other information current
+‘as required by Section 2-154-020 of the Municipal Code of Chicago.”
+
+9. Article 7, Compliance with All Laws, is amended by adding « new Section 7.14,
+Incligibility to do Business with the City of Chicago as follows:
+
+“7.14 Incligibility to do Business with the City of Chicago
+
+Failure by the Consultant or any controlling person (as defined in Section 1-23-010 of the
+Municipal Code of Chicago) thereof to maintain eligibility to do business with the City of
+‘Chicago as required by Section 1-23-30 of the Municipal Code of Chicago shall be grounds for
+termination of this Agreement.”
+
+10. Article 7, Compliance with All Laws, Section 7.8 Prohibition on Certain
+Contributions is amended by deleting paragraph 4, 5 and 6 and replacing them with the
+following:
+
+“Contractor agrees thatthe Identified Parties must not engage in any conduct whatsoever
+4esigned to intentionally violate this provision or Mayoral Executive Order No. 11-4 orto entice,
+director solicit others to intentionally violate this provision or Mayoral Executive Order No. 11-
+4.
+
+Contractor agrees that a violation of, non-compliance with, misrepresentation with
+respect to, or breach of any covenant or warranty under this provision or violation of Mayoral
+‘Executive Order No. 11-4 constitutes a breach and default under this Agreement, and under any
+Other Contract for which no opportunity to cure will be granted. Such breach and default
+entitles the City to all remedies (including without limitation termination for default) under this
+Agreement, under Other Contract, at law and in equity. This provision amends any Other
+Contract and supersedes any inconsistent provision contained therein.
+
+If Contractor violates this provision or Mayoral Executive Order No. 11-4 prior to award
+of the Agreement resulting from this specification, the Chief Procurement Officer may reject
+Contractor's bid."
+11. Article 10, General Conditions, Section 10.9, Independent Contractor, is
+‘amended by adding a new subsection (c) as follows:
+
+“(@) SHAKMAN
+
+(@___ Consultant may be subject to the May 31, 2007 Order entitled “Agreed
+Settlement Order and Accord” (the “Shakman Accord") and the August 16, 2007 “City of
+Chicago Hiring Plan" (the “City Hiring Plan”) entered in Shakman v. Democratic
+Organization of Cook County, Case No 69 C 2145 (United State District Court for the
+Norther District of Mlinois). Among other things, the Shakman Accord and the
+
+City Hiring Plan prohibit the City from hiring persons as governmental employees in
+‘non-exempt positions on the basis of political reasons or factors,
+
+(ii) __ No City employee may direct an individual to apply fora position with
+‘Consultan, either as an employee or asa subcontractor. Nor may any City employee
+direct Consultant to hire an individual as an employee or as a subcontractor. Consultant
+‘mus follow its own hiring and contracting procedures, without being influenced by City
+employees. The employees provided by Consultant under this Agreement are employees
+ox subcontractors of Consultant, not employees of the City ofthe City of Chicago. This
+‘Agreement isnot intended to and doesnot constitute, reat, give rise to, o otherwise
+‘eeognize an employer-employee relationship of any kind between the employees or )
+professionals provided by Consultant and the City
+
+(ii) Consultant will not condition, base, or knowingly prejudice or affect any
+term or aspect ofthe employment of any employee provided under this Agreement or
+offer employment as an employee under this Agreement based upon or because of any
+Political reason or factor, including, without limitation, any individual's politcal
+alfiliation, membership in a political organization or party, politcal support or activity,
+politcal financial contributions, promises of such political support, activity or financial |
+contributions, or such individual's political sponsorship or recommendation. For
+‘purposes ofthis Agreement, apolitical organization or party isan identifiable group or
+tity that as as its primary purpose the support of or opposition to candidates for |
+lected public office. Individual political activities are the activities of individual persons
+in support of or in opposition to political organizations or parties or candidates for elected
+public office.
+
+(Gv) __In the event of any communication to Consultant by a City employee or
+City official in violation of Section 10.9(¢Xii) above, or advocating a violation of Section
+10.9(@Xili) above, Consultant will, as soon as is reasonably practicable, report such
+communication t0 the Hiring Oversight Section of the City’s Office of the Inspector
+General, and also to the head of the relevant City Department utilizing services provided
+under this Agreement.”
+
+12, Exhibit 1, Scope of Services, Section 1 (f) is amended by deleting “Labor /
+Personne!” and replaced with “Labor / Personnel Data”
+
+13. Exhibit 2, Schedule of Compensation is amended by adding the extension year
+‘compensation in Attachment One.
+
+5
+
+|
+|
+|
+|
+|
+14. Consultant has exccuted Special Conditions Regarding Minority and Women
+Business Enterprise Commitment Schedules C-1, Schedule D-1, an online Economie Disclosure
+‘Statement and Affidavit (EDS) Certificate of Filing, provided an Insurance Certificate, Affidavit
+copies of which are attached o this Amendment as Exhibit 1, Exhibit 2, Exhibit and Exhibit 4
+respectively and incorporated here by reference
+
+|
+
+‘The terms of the Agreement remain in full force and effect except as modified inthis
+Amendment.
+
+Attachment One
+
+EXHIBIT 2
+SCHEDULE OF COMPENSATION
+
+HOURLY HOURS!
+RESOURCE RATE YEAR YEARI = YEAR2.- YEAR3-——TOTAL
+Project Manager «$173.00 48 $8304.00 $8304.00 $8304.00 $24,912.00
+
+Technical Resource $120.00 1776 $213,120.00 $213,120.00 $213,120.00 $639,360.00
+
+Database Administrator $158.00 144 $22,752.00 $22,752.00 $22,752.00 $68,256.00
+
+‘Total $732,528.00
+
+Maximus FleetFocus M4 Annual
+
+Software Maintenance Licensing ‘$127,000.00 $130,000.00 $134,000.00 $391,000.00
+
+Total Compensation $371,176.00 $374,176.00 $378,176.00 $1,123,528.00
+YEAR FOUR HOURS
+
+RESOURCE HOURLYRATE YEAR TOTAL
+
+Project Manager $173.00 $8,304.00
+
+‘Technical Resource $120.00 1874 $224,880.00
+
+Database Administrator $158.00 4 $22,752.00
+
+‘Year Four Maximus FleetFocus M4 Annual Software Maintenance Licensing: $143,500.00
+
+Total Compensation for Year Four $399,436.00
+AMENDMENT SIGNATURE PAGE
+Contract No.: 17063
+‘Specification No.: 59775
+Mod Requisition No.: 57073
+\Vendor Name: System Development Integration, LLC.
+Total Amount (Value): $1,522,964.00
+Funds Chargeable: 007-0100-040-0402035-0360 ($1,123,528.00)
+(011-0100-0402035-0140-220140 ($399,436.00)
+
+‘System Development Integration, LLC.
+
+‘This instrument was acknoweedged before me on this 7% day of Sephaber. 201g
+
+by as President (or other authorized officer) and
+cA a8 Secretary of SIT, LLC (Corporation
+
+Name).
+
+Notary Public Signature.
+
+Commission Expires: _ 08/29/12
+
+CITY,OF CHICAGO
+
+n
+Mayor Date \ Ny
+Comptroller Date
+The undersigned has determined, on behalf of the City of Chicago, with regard to this
+Contract Amendment, that the circumstances said to necessitate the change in
+performance were not reasonably foreseeable at the time the Agreement was signed, or
+
+that the change is germane to the original Agreement as signed, or that the change
+interest of the City of Chicago and is authorized by law.
+
+|
+|
+
+Exhibit 1
+
+Special Conditions Regarding
+
+i
+i
+i
+i
+Ey
+a
+Sz
+HE}
+:
+A
+i
+
+Department or ProcurgMeNt Services
+CITY OF CHICAGO
+
+REQUEST FOR WAIVER
+To: Jamie L. Rhee
+Chief Procurement Officer
+FROM: Joseph Chan
+Contracts Negotiator
+DATE: March 8, 2012
+User Department: Department of Fleet Management
+
+Description of Services: Support Services for Maximus Fleetfocus M4 System
+Contract Period: Blanket
+
+‘Specification No. 59775
+Contract No. 17063
+
+Vendor: System Development integration, LLC
+‘Amendment Amount $399,436.00
+
+Waiver Amount: 16.9% MBE = $67,504.68
+
+4.5% WBE = $17,974.62
+
+‘COMPLIANCE WITH REQUIREMEN’
+PROVIDED TIMELY NOTICE TO AN APPROPRIATE ASSOCIATION
+REASON(S) PURSUANT TO ORDINANCE AND REGULATIONS FOR APPROVAL:
+
+‘SOLICITED APPROPRIATE NUMBER OF MBE/WBE’s:
+=> EXCESSIVELY COSTLY
+TK IMPRACTICABLE
+
+(On 516/11, Department of Revenue (DFM) requested to extend the contract by amendment with System
+Development integration LLC. (SD!) to provide suppor services for the Maximus Fleetfocus Mé System,
+SSDI is a project management, software implementation and software support entity based in Chicago,
+inois and they were the only Respondent to the Request for Proposal dated October 10, 2007, SDI wil
+[provide suppor services for the software and database from the Department of Fleet Management ste at
+{he 1685 North Throop location. Based on the proprietary nature ofthe software and database, there are no
+{areas for director indirect subcontracting o Cily of Chicago certifed MBE/WEBE firms. See SDI waiver
+
+request letter dated 12/15/1 hand DFM concurrence letter dated 3/2/12 copies attached.
+
+DepastMent oF FLEET AND FACILITY MANAGEMENT
+CITY OF CHICAGO
+
+ae: M2202
+Te Jamie L. Rhe alpfror-
+° ee
+
+het Pcie cer alalia.
+
+Department of Procurement Services
+
+Ripe Cae
+
+Commissioner
+Department of Fleet and Facity Management
+
+‘Subject: PO# 17063 - System Development integration, LLC (“SDI")
+ifeationt FletFocus
+Response ~ Request ora Waiver
+
+From
+
+The Department of Fleet and Facty Management has reviewed the request fra waver submited by System
+Development integration, LLC (‘SO’) dated December 15, 2011, along wih e scope of sevice of the above
+‘mentored tom agreement
+
+‘SD Good Faith Effort ~ Request fr Qualicatons are being considered as suicent evidence to suppot lr
+‘am to request a waiver (see atached). Based on he recent outreach efor the Deparment of Fleet and Facity
+“Management (2FM) concurs that a waiver request shouldbe granted
+
+Therefore itis being requested hat that above mentoned contract be extended wih a waiver forthe remaining
+‘ecension period.
+
+Please contact Kimberei Aaron + (312) 744-8546 for adsonalinformationlasistance,
+‘Thank youn advance for your support
+
+20 NORTH LASALLE STREET, SUITE 200, CHICAGO, ILLINOIS eoso2
+
+jecember 15, 2011
+David J. Reynolds. RECEIVED:
+Commissioner
+Department of Fleet Management EC 1620
+ity of Chicago
+
+1685N. Throop Street :
+Chicago nos 60642 Takat p= —
+
+Via Ema and Messenger
+
+Re: Request for Waiver of WIMBE Compliance for the term of Amendment No. 1 to
+
+Department of Fleet Management Contract No. 17063 for Support Services for
+Maximus FleetFocus M4 System (the “Amendment")
+
+‘Dear Commissioner Reynolds:
+
+With this letter, System Development Integration, LLC ("SOM") respectuly requests that the
+WIMBE compliance goals for the term of the ‘Amendment be waived for the following
+reasons.
+
+‘The suppor to be delivered during the term of the Amendment only requires the services of
+‘one SDI resource, SOI's resource at Fleet for this project has been there for over a decade
+Under the precursor and current conracts. He is uniquely familiar with Fleet, the FleetFocus
+[MA System sofware and the overall project. SDI does not believe itis practical or desirable
+for SOI or Fleet to replace him, or spit his duties, with WBE and/or MBE subcontractor
+personnel unfamiliar with the history ofthe projec inorder to gain compliance ovar the term
+of the Amendment. Moreover, SDI has already performed the services with the current
+resource for neary hal of the term ofthe extension fo which the Amendment applies.
+
+Lastly, SO! believes that good faith etforts as a pre-requisite to a waiver should not apply in
+this case given the foregoing circumstances.
+
+‘SDI appreciates your attention to this matter. If you should have any questions or require
+‘additonal information, ploase do not hesitate to contact me,
+
+Fax 312.580.7600
+petty @ sdienterprises.com
+
+cc: Jamie L Rhee, Chiet Procurement Officer
+‘Joseph Chan, Procurement
+‘Monica Jiminez, City Compliance
+Michele Gambia, Fleet Contract Review
+
+Exhibit 2
+
+Online Economic Disclosure Statement (EDS) and Affidavit
+Certificate of Filing,
+
+Instructions:
+
+Complete the online Economic Disclosure Statement (EDS) which includes a Disclosure of Retained Parties.
+Please submit an electronically signed, one page EDS Certificate of Filing which validates that the EDS has
+been filed. Additionally, the Municipal Code of Chicago requires the disclosure of Familial Relationships with
+Elected City Officials and Department Heads. The web address to submit your EDS and Familial Relaionshipe
+
+CITY OF CHICAGO ECONOMIC DISCLOSURE STATEMENT
+
+EDS Number: 21330 Date of This Filing:03/22/2012 11:15 AM
+Cerificate Printed on: 0322/2012 Original Filing Date:04/07/2011 10:49 AM
+Disclosing Party: System Development Title Secretary/General Counsel
+Integration, LLC
+
+Filed by: Linda Petty
+
+“Matter: Support Services for Maximus
+Fleefeous M4 System
+
+Applicant: System Development Integration,
+LLC
+
+Specification #: 59775,
+
+Contract # 17063
+
+‘The Economic Disclosure Statement referenced above has been electronically filed with
+the City. Please provide a copy of this Certificate of Filing to your city contact with other
+‘required documents pertaining to the Mater. For additional guidance as to when to provide this
+Centfieate and other required documents, please follow instructions provided to you about the
+‘Matter or consult with your City contact
+
+A copy of the EDS may be viewed and printed by visiting
+‘hups:/webapps.cityofchicago.org/EDSWeb and entering the EDS number into the EDS Seatch
+Prior to contract award, the fling is accessible online only tothe disclosing party and the Cty,
+‘buts still subject to the Illinois Freedom of Information Act. The fling is visible online tothe
+public after contract award,
+
+Exhibit 3
+
+Insurance Certificate
+
+AL SERVICES INSURAN RE]
+Department of Fleet Management
+‘Support Services for Maximus Fleet Focus Md System
+
+Consultant mast provide and maintain at Consultants own expense, during the term of the
+Agreement and time period following expiration if Consultant i tequted to return and pectormn any
+of the Services or Additional Services under this Agreement, the insurance coverage and
+‘equitements specified below, insuring all operations related to the Agreement
+
+A. INSURANCE TO BE PROVIDED
+
+1) Workers Compensation and Employers Liability
+
+‘Workers Compensation Insurance, as prescribed by applicable law, covering all employees
+who are to provide a service under this Agreement and Employers Liability coverage sith
+Timits of not less than $$00,000 each accident, illness ot disease.
+
+2) Commmexcial Genecal Liability (Primary and Urnbella)
+
+Commercial General Lisbilty Insurance or equivalent with limits of not less than
+$2,000,000 per occurrence for body injury, personal injury and property damage liability
+Coverages must include the following: Ail premises and operations, products/completed
+‘operations, separation of insureds, defense and contractual liability (with no limitation
+endorsement). The City of Chicago is to be named as an additonal insured on a primary,
+non-contributory basis for any liability arising directly or indzecty from the Services
+
+Subcontractors performing Services for the Consultant must maintain limi of not less than
+$1,000,000 withthe same terms herein.
+
+3) Automobile Liability (Primary and Umbretts)
+
+‘When any motor vehicles (owned, non-owned and hired) are used in connection with
+Services to be performed, Consultant must provide Automobile Liability Insurance with
+limits of not less than $1,000,000 per occurrence for bodily injury and property damage. The
+City of Chicago isto be named as an additional insured on a primary. non-contabutory basis
+
+4) Eto i
+
+When any system technicians, cyber engineers, project managers or EDP professionals
+including but not limited to system programmers, hardware and. software
+AesignersConsultants or any other professional Consultants perform Services in connection
+with this Agreement, Professional Liability Insurance covering acts, errors or omissions must
+‘be maintained with limits of not less than $1,000,000. Coverage must include performance of
+‘or failure to perform EDP. performance of or failure to perform other computer services and
+
+failure of software product to perform the function for the purpose intended. When policies
+se renewed or eplaced, the policy retroactive date must coincide with, or precede, stan of
+Services onthe Agreement. A claims-made policy which is not renewed or replaced must
+‘have an extended reporting period of two (2) yeas,
+
+5) Valuable Papers
+
+When any plans, designs, drawings, specifications, media, data, epons, records and other
+documents are produced or used under this Agreement, Vaivable Papers Insurance must he
+‘maintained in an amount to insure against any loss whatsoever and must have hinite
+sufficient to pay forthe re-creation and reconstruction of such secords,
+
+©) Propesy
+
+Consultant is responsible forall loss or damage to City property at full replacement cost
+including the Department of Fleet Management's equipment ce loss to any ciher City
+property asa result of the Agreement.
+
+Consultant is responsible forall loss or damage to personal property (including but aot
+limited to materials, equipments, tools and supplies) owned, used, leased. or rented by
+Consultant.
+
+B. ADDITIONAL REQUIREMENTS
+
+Consultant must furnish the City of Chicago, Department of Procurement Services, City Hal, Room
+403, 121 North La Salle Sueet, Chicago, 1.60602, original Cerificate of Insurance, cr Such sinlan
+evidence, to be in force on the date of this Agreement, and Renewal Certificates of insurance or
+Such similar evidence. if the coverages have an expiration or renewal date occurring during the eo
+‘of this Agreement, Consultant must submit evidence of insurance onthe City of Chicago insurarce
+CCeruficate Form (copy attached as Exhibit or equivalent prior Agreement award. The receiptof
+any certificate does not constitute agreement by the City that the itsurance requirement ithe
+Agreement have been fully met or thatthe insurance policies indicated on the certificate are at
+compliance with all Agreement requirements. The failure of the City to obtain cetificates o othey
+insurance evidence from Consultant is not a waiver by the City of any requitements tor tae
+Consultant to obsain and maintain the specified coverages. Consultant must advise al nsurereof the
+‘Agreement provisions regarding insurance. Non- conforming insurance does not relieve Consultantof
+‘he obligation to provide insurance as specified inthis Agreement. Non-fufillment of the insurance
+conditions may constinte a violation ofthe Agreement, and the City rettns the right to suspend ths
+‘Agreement until proper evidence of insurance is provided, or the Agreement may be termoated
+
+The insurance must provide for 60 days prior written notice to be given to the City in the event
+‘coverage is substantially changed, canceled or noa-renewed.
+
+‘Any deductibles or seiinsured retentions on referenced insurance coverages must be borne by
+
+Consultant.
+
+Consultant hereby waives and agrees to require their insures to waive thei rights of subrogation
+against the City of Chicago, its employees, elected officials. agents. or representatives,
+
+‘The coverages and fimits furnished by Consultant in no way limit Consultant's liabilities and
+Fesponsibiltes specified within the Agreement or by law.
+
+‘Any insurance or self-insurance programs maintained by the City of Chicago do not contribute with
+Insurance provided by Consultant under this Agreement
+
+‘The required insurance 10 be carried is not limited by any limitations expressed in the
+indemnification language in this Agreement or any limitation placed on the indemnity sn this
+‘Agreement given asa matter of law,
+
+If Consultant is a joint venture or limited liability company, the insurance policies must name the
+Joint venture o limited liability company 3s a named insured
+
+Consultant must require all Subcontractor to provide the insurance required inthis Agreement ot
+Consultant may provide the coverages for Subcontractors. All Subcontractors ae subject tothe
+same insurance requirements of Consultant unless otherwise specified in this Agreement
+
+If Consultant or Subcontractors desire additional coverages, the panty desitn
+
+the additional
+coverages is responsible for the acquisition and cost.
+
+‘The City of Chicago Risk Management Department mainsains the right to modify, delete, alter or
+‘change these requirements
+
+‘Ont CERTIFICATE OF LIABILITY INSURANCE “ae
+"Ts GERTAICATE @ ISSUED A3 A WATTER OF FORMATION OMLY AND CONFERS WO RIGHTS UPON THE GERTFIGATE HOLDER Ta
+
+CERIFICATE OES NOT AFFIIATIELY OM NEGATIVELY AMEND, EXTEND OR ALTER THE COVERAGE APFCROED UY ae Rates
+SSELOW. TH CENTIICATE OF NGUIANCE DOES NOT CONSTITUTE A COMTRAGT BETWEEN THe 8UMG MSuREND) AoTateS
+
+‘etme a emai oe peey eran aloe ne ee Ne a RT mee
+
+cts hr neu of uch endoremend
+
+ry Jason aeajr ‘|
+Le fama roca [ens aston
+
+‘Aconn 25201008) The ACORD name andloge a regard mart of ACORD
+Exhibit 4
+
+AMidavit
+
+ryote Development late g achon, Lien) {
+
+AFFIDAVIT
+
+Detevere
+edeclehilitsy (the “Affiant),
+Inereby cots and defares as follows: Cov PA ncy
+
+1, Neither the Affiant nor any Controlling Person (as defined below) of the Afiant has
+ver been convicted or in custody, under parole or under any other non-custodial
+‘supervision resulting from a conviction in a court of any jurisdiction for the commission
+of a felony of any kind, or ofa criminal offense of whatever degree, involving;
+
+(2) __bribery or attempted bribery, or its equivalent under any local, state or
+federal law, of any public officer or employee of the City of Chicago (the "City") or of
+any Sister Agency (as defined below); or
+
+(b) theft, fraud, forgery, perjury, dishonesty or deceit, or attempted theft,
+fraud, forgery, perjury, dishonesty or deceit, ots equivalent under any local, state or
+federal law, against the City or any Sister Agency; ot
+
+(©) conspiring to engage in any of the acts set forth in tems (a) or (b) of this
+Section I
+
+2. Neither the Affiant nor any Controlling Person of the Afiant has made in any civil or
+criminal proceeding an admission of guilt of any of the conduct set forth in items (a)
+‘through (0), inclusive, of Section 1 above, under circumstances where such admission of
+‘Built isa matter of record but has not resulted in criminal prosecution for such conduct.
+
+3. Neither the Affiant nor any Controlling Person of the Affiant is charged with or indicted
+for any felony or criminal offense set forth in items (a) through (c), inclusive, of Section 1
+above. Such ineligibility shall remain in effect until final adjudication is made with respect
+to such felony or criminal offense,
+
+‘As used herein, "Controlling Person” shall mean any person who (1) is an officer,
+irector, limited liability company manager, managing member, partner, general partner ot
+limited partner of any business entity; or 2) owns, directly or indirectly through one or
+‘more intermediate ownership entities, more than 7.5% of the ownership interest in any
+business entity; or (3) controls, directly or indirectly through one or more intermediate
+‘ownership entities, the day-to-day management of any business entity. Indicia of control
+include, without limitation: interlocking management or ownership; identity of interests
+‘among family members; shared facilities and equipment; common use of employees: ot
+‘organization of a business entity following the incligibility of a business entity under this
+section, using substantially the same management, ownership or principals asthe ineligible
+entity.
+
+{
+|
+|
+|
+|
+|
+|
+|
+|
+
+City of Chicago; (2) Chicago Park District; (3) Chicago Transit Authority; (4)
+‘Community College District No. 508, Cook County, Illinois; (5) Chicago Housing
+
+|
+|
+As used herein, “Sister Agency” shall mean (1) the Board of Education of the |
+‘Aur o(6) the Pale Bulding Commision of Clea |
+
+‘Under penalty of perjury, the person signiiig below: (1) warrants that he/she is
+‘authorized to execute this Affidavit on behalf of the Affiant, and (2) warrants that all |
+certifications and statements contained in this Affidavit are true, accurate and complete as |
+of the date hereof.
+
+Seyctes Develepneiel (ute gra tiers, CCE
+
+@rint or type namé of Affiant)
+
+By:
+
+(Sign here}
+
+Davie A hapte |
+(Print or type name of person signing) |
+
+Pecded J ceo
+Grint or type title oF person signing)
+
+‘Signed and swom to before me on (date)_O 7/09///__, at
+Cook County, Th nois (State).
+Lu 2. Merman Notary abi
+
+|
+|
+|
+conan ots |
+|
+i
+|
+|
+|
+|
+|
+|

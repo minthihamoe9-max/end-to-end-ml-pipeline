@@ -1,0 +1,755 @@
+EX-10.2 3 ex10-2.htm Exhibit 10.2 MANAGEMENT
+SERVICES AGREEMENT This
+Management Services Agreement (this “ Agreement ”)
+is effective as of August 10, 2023 (the “ Effective Date ”), by and between Wood Violet Fertility LLC, a Delaware
+limited liability company (“ Manager ”), Wisconsin Fertility and Reproductive Surgery Associates, S.C.,
+a Wisconsin corporation (“ Provider ”), and Elizabeth Pritts Living Revocable Trust (“ Owner ”).
+Manager, Provider and Owner are sometimes herein referred to as a “ Party ,” and collectively as the “ Parties .” RECITALS WHEREAS,
+Manager is engaged in the business of providing and/or arranging for the provision of a comprehensive range of administrative, business,
+facilities, equipment, information technology, infrastructure, management, laboratory and other support services required for the operation
+of medical practices (collectively, “ Management Services ”); and WHEREAS,
+Provider specializes in the provision of medical care, treatment, and goods and services relating to advanced fertility treatments delivered
+by or through the Owner and Practice’s other employed or contracted physicians (collectively, “ Physicians ”)
+who specialize in reproductive endocrinology, infertility, obstetrics and gynecology and/or other specialties related to the provision
+of advanced fertility treatments (collectively, “ Professional Services ”), and who are fully licensed and authorized
+to practice medicine in the State of Wisconsin; and WHEREAS,
+pursuant to that certain Asset Purchase Agreement, dated as of the Effective Date, by and among the Manager, Provider, the Seller, and
+Dr. Elizabeth Pritts, Manager will, subject to the terms set forth therein, assist Provider in managing a fertility center that will
+offer reproductive and fertility related treatments, gynecology, and other women’s healthcare services, along with related procedures
+(the “ Clinic ”); and WHEREAS,
+Provider desires to engage Manager to provide the management, consulting, administrative, business, billing, laboratory and other services
+described in this Agreement so that Provider may focus on the rendering of Professional Services at the Clinic, and Manager desires to
+provide such services to Provider, all upon the terms and subject to the conditions set forth in this Agreement. AGREEMENT NOW,
+THEREFORE, in consideration of the mutual promises and agreements set forth below, and/or other good, valuable and sufficient consideration,
+the receipt and sufficiency of which are hereby acknowledged, and incorporating the foregoing recitals, Provider, Manager and Owner agree
+as follows: 1. Appointment. 1.1 Exclusivity . During the Term (as defined in Section 10.1 ), Provider hereby appoints Manager as its sole and exclusive provider
+of Management Services, and Manager shall serve as Provider’s sole and exclusive manager. Provider shall not engage any other persons
+to perform any of the duties or functions that Manager is explicitly required to provide hereunder or that are reasonably expected to
+be able to be provided by a manager of a health care practice. In light of the scope of the Management Services provided and investment
+to be made by Manager hereunder, and the considerable impact such actions could have on Manager’s ability to perform its duties
+and functions hereunder, during the Term, Provider shall not, and shall cause the Physicians to not, engage in the Professional Services
+at or on behalf of any group practice, hospital, health clinic, not-for-profit, public, nonprofit or for-profit entity, or any other
+person or entity without obtaining the prior written approval of Manager, which approval may be withheld in the sole discretion of Manager.
+Manager shall provide such Management Services in a manner that meets the requirements of the business functions of Provider, including,
+without limitation, delegating any duties under this Agreement to Manager’s affiliates or to one or more subcontractors in compliance
+with all applicable federal and state laws and regulations. - 1 - 1.2 Representations and Warranties . (a)
+Provider represents and warrants to Manager that Provider is a corporation duly formed, validly existing, in good standing under the
+laws of the State of Wisconsin, properly qualified to do business in other states in which it operates, and has all necessary legal power
+and authority to own all of its properties and assets and to carry on its business as now being conducted. (b)
+Manager represents and warrants to Provider that Manager is a Delaware limited liability company duly formed, validly existing, and in
+good standing under the laws of the State of Delaware, properly qualified to do business in other states in which it operates, and has
+all necessary legal power and authority to own all of its properties and assets and to carry on its business as now being conducted. (c)
+Manager and Provider represent and warrant to each other as follows: (i) each such Party has the legal authority to execute, deliver
+and perform its obligations under this Agreement and all agreements executed and delivered by it pursuant to this Agreement, and has
+taken all action required by law, its articles of incorporation, its bylaws, its articles of organization, its certificate of formation,
+its operating agreement, its limited liability company agreement or otherwise, as applicable, to authorize the execution, delivery and
+performance of this Agreement and such related documents; (ii) the execution and delivery of this Agreement and the consummation of the
+transactions contemplated hereby have been duly authorized by all requisite legal action of such Party and no other legal action on the
+part of such Party is necessary to authorize this Agreement or to carry out the transactions contemplated hereby; (iii) the execution
+and delivery of this Agreement does not, and will not, violate any provisions of the articles of incorporation, bylaws, articles of organization,
+certificate of formation, operating agreement or limited liability company agreement, as applicable, of such Party or any provisions
+of or result in the acceleration of, any obligation under any mortgage, lien, lease, agreement, instrument, order, arbitration award,
+judgment or decree, to which such Party is a party, or by which it is bound; (iv) this Agreement has been duly executed and delivered
+by such Party and constitutes the legal, valid, and binding obligation of such Party, enforceable in accordance with its terms, except
+as may be limited by bankruptcy or other operation of law; (v) neither the execution and the delivery of this Agreement, nor the consummation
+of the transactions contemplated hereby will: (A) violate any law, statute, regulation, rule, injunction, judgment, order, decree, ruling,
+charge or other restriction of any government, governmental agency or court that such Party is subject to; or (B) conflict with, result
+in a breach of, constitute a default under, result in the acceleration of, create in any third party the right to accelerate, terminate,
+modify or cancel, or require any notice or approval or consent under any agreement (including any non-compete or other restrictive covenant),
+contract, lease, license, instrument or other arrangement to which such Party is bound or to which such Party’s assets are subject
+(or result in the imposition of any encumbrance upon any of the assets of such Party); and (vi) such Party is not required to give any
+notice to, make any filing with or obtain any authorization, registration, qualification, consent, waiver or approval of any government
+or governmental agency or any third party in connection with the execution, delivery and performance of the transactions contemplated
+by this Agreement by such Party. - 2 - (d)
+Each of Owner and Provider represents and warrants to Manager that neither: (1) Provider; (2) Provider’s Owners, officers, members,
+managers and employees, (3) Provider’s contractors and agents involved in the delivery of Professional Services (excluding the
+Licensed Support Personnel and Provider Support Personnel); nor (4) the Physicians nor Non-Physician Practitioners ( as defined below ),
+as may be applicable of Provider: (i) are currently excluded, debarred, or otherwise ineligible to participate in the federal health
+care programs as defined in 42 USC § 1320a-7b(f) (the “ Federal Healthcare Programs ”) or any General Services
+Administration program; (ii) have, to Provider’s actual knowledge, been convicted of a criminal offense related to the provision
+of healthcare items or services; and (iii) are, to Provider’s knowledge, under investigation or otherwise aware of any circumstances
+which may result in Provider, its officers, members, managers, or employees, or, to the extent involved in the delivery of Professional
+Services, its contractors, agents, joint ventures, affiliates or subsidiaries, or its Physicians or Non-Physician Practitioners, being
+excluded from participation in the Federal Healthcare Programs or General Services Administration agreement, for offenses and based upon
+events beyond those which have been disclosed to Manager as of the Effective Date. This representation and warranty shall be an ongoing
+representation and warranty during the Term, and Provider shall immediately notify Manager of any change in the status of the representations
+and warranty set forth in this section and of any action Provider becomes aware of that could reasonably be foreseen to lead to such
+an event. (e)
+Manager represents and warrants to Provider and Owner that neither: (1) Manager; (2) Manager’s officers, managers, members, and
+employees; (3) Manager’s contractors, vendors, or agents providing Management Services under this Agreement; nor (4) any Licensed
+Support Personnel or Provider Support Personnel (as defined below) provided to Provider hereunder: (i) are currently excluded, debarred,
+or otherwise ineligible to participate in the Federal Healthcare Programs or any General Services Administration program; (ii) have,
+to Manager’s actual knowledge, been convicted of a criminal offense related to the provision of healthcare items or services; or
+(iii) are, to Manager’s knowledge, under investigation or otherwise aware of any circumstances which may result in Manager, its
+officers, managers, or employees, or, to the extent involved in the delivery of Management Services under this Agreement, its contractors,
+vendors, or agents, being excluded from participation in the Federal Healthcare Programs or General Services Administration agreement.
+This representation and warranty shall be an ongoing representation and warranty during the Term, and Manager shall immediately notify
+Provider of any change in the status of the representations and warranty set forth in this section and of any action Manager becomes
+aware of that could reasonably be foreseen to lead to such an event. - 3 - (f)
+Owner represents and warrants to the other Parties that the execution and the delivery of this Agreement, or the consummation of the
+transactions contemplated hereby, will not conflict with, result in a breach of, constitute a default under, result in the acceleration
+of, create in any third party the right to accelerate, terminate, modify or cancel, or require any notice or approval or consent under
+any agreement (including any non-compete or other restrictive covenant), contract, lease, license, instrument or other arrangement to
+which Owner is bound or to which Owner’s assets are subject (or result in the imposition of any encumbrance upon any of the assets
+of Owner). 1.3 Exclusive
+Control over Professional Services . UNDER THIS AGREEMENT, PROVIDER SHALL HAVE THE EXCLUSIVE AUTHORITY AND CONTROL OVER THE
+PROVISION OF PROFESSIONAL SERVICES, CLINICAL DECISION-MAKING, AND ANY ACTIVITIES CONSTITUTING THE PRACTICE OF MEDICINE. MANAGER
+SHALL HAVE THE AUTHORITY TO MANAGE THE NON-CLINICAL ASPECTS OF THE CLINIC, IN ALL CASES SUBJECT TO THE TERMS OF THIS AGREEMENT AND
+APPLICABLE LAW. 2. Duties and Responsibilities of Manager. 2.1 Performance of Duties . Manager shall provide the Management Services in a professional and efficient manner in accordance with
+generally accepted management, administrative and accounting practices consistent with the standard of care for a Manager specialized
+in the operation and management of a medical practice. 2.2 Attorney-in-Fact . For good and valuable consideration, and to secure Manager’s performance of certain obligations under
+this Agreement on behalf of Provider, Provider shall irrevocably appoint Manager as its lawful attorney-in-fact solely for the purposes
+set forth in Sections 2.3 through 2.29 during the Term, below, and shall execute a power of attorney agreement in the form attached
+as Exhibit E (the “ Power of Attorney ”), and such appointment shall be construed as being coupled with
+an interest. 2.3 Billing . On behalf of Provider and the Clinic, Manager shall submit, process and collect all billings and claims for payment from
+and to patients and, as applicable, third party payors and fiscal intermediaries, for all goods, items, and services provided by Provider
+to its patients at the Clinic (including any globally billed services or services involving a professional and/or technical component).
+Manager shall bill or cause to be billed all fees charged by Provider for Professional Services rendered by the Physicians and any nurse
+practitioners or physician assistants employed by or contracting with Provider (collectively, “ Non-Physician Practitioners ”)
+for Professional Services provided at the Clinic. Provider shall promptly notify Manager upon becoming aware of any actual or alleged
+billing or coding errors. To the extent permitted by law, Manager and Provider shall reasonably cooperate in the investigation of matters
+involving billing or coding errors arising under this Agreement, and in responding to any such investigations conducted by governmental
+authorities or third party payors. - 4 - 2.4 Collections . Manager shall: (i) collect all revenue from whatever source, including accounts receivable, due to Provider in connection
+with Provider’s operations at the Clinic (“ Gross Revenue ”); (ii) receive all Gross Revenue on Provider’s
+behalf, except, if applicable at any time, for Federal Healthcare Program receivables (“ Government Receivables ”),
+which amounts will be treated consistent with Section 2.7 below; and (iii) sue for and give satisfaction for monies due on account
+and to withdraw any claims, suits or proceedings pertaining to or arising out of Manager’s or Provider’s right to collect
+such accounts; provided , however , that Manager shall not initiate a lawsuit to collect from a patient of Provider without
+Provider’s consent, which shall not be unreasonably withheld, conditioned or delayed. This Section 2.4 shall not be construed to
+permit Provider to assign its right to receive governmental receivables to Manager, which rights are hereby expressly reserved by Provider. 2.5 Endorsement . Manager shall take possession of and endorse in Provider’s name any notes, checks, drafts, bank notes, money
+orders, insurance payments and any other instruments received as Gross Revenue. 2.6 Banking Powers . Manager shall deposit or cause to be deposited all Gross Revenue of Provider into a Provider Account or Government
+Lockbox Account (as such terms are defined in Section 2.7 ). Provider shall not make any withdrawals from any bank account if to
+do so would impair Manager’s ability to fulfill Manager’s obligations under this Agreement. Manager (and any subcontractor
+designated by Manager) shall have the right to enter into deposit account control agreements and make withdrawals from any Provider Account
+to pay all costs and expenses incurred in the operation of Provider, including payment of the Management Fee as set forth in Section
+9.1 and to fulfill all other tenets of this Agreement. Neither Provider, Owner, nor any other individual or entity shall make any
+withdrawals from any Provider Account if doing so would impair Manager’s ability to fulfill Manager’s obligations under this
+Agreement. Manager (and any subcontractor designated by Manager) shall have the right to make withdrawals from any Provider Account. 2.7 Provider Bank Accounts . (a)
+Subject to Section 2.7(c) below, for the deposit of receivables, Provider shall open and/or maintain, with the assistance of Manager,
+at a bank designated by Manager, one or more Provider bank accounts (“ Provider Accounts ”), in the name of and
+under the taxpayer identification number of Provider. For each such Provider Account, Provider shall enter into a deposit account control
+agreement with Manager under which Manager will have the right to make withdrawals pursuant to this Agreement. Provider shall take such
+action as is necessary to maintain Manager’s authority to make withdrawals from and deposits into its respective Provider Accounts,
+in accordance with Section 2.2 and Section 2.6 , Provider and Manager agree that no interest shall be payable from Manager
+to Provider on such funds. - 5 - (b)
+Provider shall not maintain any bank account for cash or Gross Revenue deposits that is not a Provider Account or a Government Lockbox
+Account for purposes of this Agreement in connection with Professional Services rendered through Provider at the Clinic. (c)
+If, at any time during the term hereunder, Provider will receive any Government Receivables, then prior to Provider’s receipt of
+such Government Receivables, Provider will establish or maintain a bank account in the sole control of Provider at the depository bank
+(the “ Government Lockbox Account ”) in the name of and under the taxpayer identification number of Provider.
+All such Governmental Receivables will be first be deposited in a bank account controlled by Provider and then, at the direction of Provider,
+such deposits shall be swept daily to an account controlled by Manager in conformity with an agreement between Provider and Manager (a
+“ Government Lockbox Agreement ”), pursuant to which Provider will retain the right to revoke such instruction
+to sweep deposits into an account of Manager, and to make adjustments to Gross Revenue for any write-offs or discounts due to insurance,
+customer satisfaction or bad debt. With regard to any Governmental Receivables, Provider shall (i) instruct all applicable payors to
+remit all Government Receivables to the Government Lockbox Account; (ii) deposit payment of any Government Receivables received by Provider
+into the Government Lockbox Account; and (iii) direct the transfer or remittance of all cash proceeds in such Government Lockbox Account
+to an account of Manager on a daily basis in accordance with the Government Lockbox Agreement. 2.8 Clinical Laboratory Services . At Provider’s expense, Manager shall provide to Provider all andrology and embryology laboratory
+services necessary for Provider to furnish Professional Services at the Clinic (the “ Clinical Laboratory Services ”),
+as set forth in Schedule 1 . Manager represents and warrants that all personnel involved in its provision of the Clinical
+Laboratory Services shall be appropriately licensed, shall perform all services within the scope of any applicable licenses and certifications,
+and shall perform all services in accordance with all laws and with prevailing and applicable standards of care. 2.9 Personnel . (a)
+At Provider’s expense, Manager shall provide to Provider the support services of non-clinical, clerical and administrative personnel
+who may be employed by Manager as applicable law permits who are necessary for Provider to furnish its services (“ Provider
+Support Personnel ”), pursuant to an agreement between Provider and Manager (the “ Employee Leasing Agreement ”)
+in the form attached hereto as Exhibit A . The cost of providing such services to Provider shall be set forth in the Employee Leasing
+Agreement. Manager represents and warrants that all Provider Support Personnel shall be appropriately licensed, shall perform all services
+within the scope of any applicable licenses and certifications, shall perform all services in accordance with all laws and with prevailing
+and applicable standards of care and in accordance with the Policies. - 6 - (b)
+At Provider’s expense, Manager shall provide to Provider the support services of licensed healthcare personnel, other than Physicians
+and Non-Physician Practitioners, each of whom will be directly employed by Provider, as applicable. Such personnel shall include, but
+not be limited to, medical assistants and registered nurses who may be employed by Manager as applicable law permits who are necessary
+for Provider to furnish its services (“ Licensed Support Personnel ”), pursuant to the Employee Leasing Agreement.
+The cost of providing such services to Provider shall be set forth in the Employee Leasing Agreement. Manager represents and warrants
+that all Licensed Support Personnel shall be appropriately licensed, shall perform all services within the scope of their licenses and
+certifications, shall perform all services in accordance with all laws and with prevailing and applicable standards of care and in accordance
+with the Policies. Provider may request in writing to Manager that Licensed Support Personnel be replaced or be removed from the provision
+of services to Provider patients for good cause shown. Upon receipt of such request, Manager may investigate the issue and, at its sole
+discretion, issue a warning, performance improvement plan, or other disciplinary measure to the Licensed Support Personnel. If such Licensed
+Support Personnel fails to remedy the issue within thirty (30) days to Manager’s and Provider’s satisfaction, Manager shall
+replace such Licensed Support Personnel and take other action as Manager deems necessary. 2.10 Contract Assistance . Manager shall advise Provider with respect to, and may, as appropriate and permitted by applicable law, negotiate
+in the name of and at the expense of Provider, such contractual arrangements with commercial payors and such other third parties as are
+reasonably necessary and appropriate for Provider’s operation, including, without limitation, agreements with health care facilities,
+third-party payors, accountable care organizations, alternative payment models, or other purchasers of healthcare services (“ Contracts ”)
+in consultation with Provider. Manager is hereby expressly authorized, as Provider’s agent and at Provider’s expense, to
+execute and deliver any of such Contracts, in the name of and on behalf of Provider, each Physician, and each Non-Physician Practitioner
+by presentation of a copy of the Power of Attorney, which shall constitute conclusive evidence of such agency. Manager may, in the name
+and on behalf of Provider, each Physician, and each Non-Physician Practitioner modify, supplement, amend, or terminate, or grant waivers
+or releases of obligations under, any of such Contracts. In its performance of the services contemplated under this Section 2.10 ,
+Manager: (i) shall comply with all federal and state laws, including any antitrust laws; (ii) shall not disclose to Provider, use as
+a basis for its recommendations to Provider or use in negotiations on behalf of Provider, any fee or pricing information for any other
+medical practice, surgery center or hospital in a market area overlapping in whole or in part with Provider; (iii) shall not engage in
+any conduct or activity which might be construed to constitute price fixing or collusion; and (iv) shall not obligate Provider, its Physicians,
+or its Non-Physician Practitioners, in any manner, that impedes on their medical practice decisions. Manager shall not provide services
+contemplated by this Section 2.10 to the extent that the provision of services by Manager would violate any applicable law. - 7 - 2.11 Insurance . (a)
+Manager shall arrange for the purchase by Provider, at Provider’s cost and expense, of necessary insurance coverage for Provider,
+including but not limited to workers’ compensation insurance and professional liability insurance. Manager shall be responsible
+for ensuring that Provider maintains at all times during the Term, workers’ compensation insurance required by law, professional
+liability insurance, covering Provider, Physicians, Non-Physician Practitioners, and Licensed Support Personnel, as required by law and
+under the contracts of Provider, and general commercial liability insurance sufficient to cover any liabilities arising from Provider’s
+obligations under this Agreement. Upon request by Provider, Manager shall provide Provider with certificates of insurance or other satisfactory
+written evidence of insurance coverage. If Manager, through no fault of Provider, fails to procure the insurance coverage specified under
+this Section 2.11 , Manager shall indemnify and hold harmless Provider for claims which such coverage would otherwise have insured
+against. (b)
+Manager shall maintain comprehensive general liability insurance and directors’ and officers’ insurance in commercially reasonable
+amounts that are customary for companies that provide management services to physician practices. (c)
+Provider shall use commercially reasonable efforts to assign all rights to any benefit proceeds under key man life insurance policies
+for which Provider serves as owner or beneficiary to Manager and any amount payable under such policies shall be transferred to Manager
+upon receipt. 2.12 Assets, Equipment and Supplies; Computer and Information Technology Systems . (a) Assets, Equipment and Supplies . Manager shall, in consultation with Provider, select and purchase, lease, license or otherwise
+acquire or arrange for the use of all assets necessary for Provider to provide the Professional Services, including, without limitation,
+medical, computer and other equipment, software, supplies, inventory, and other materials and items, in such quantities and at such times
+as Manager reasonably shall determine to be adequate or appropriate to provide the Professional Services. Manager agrees to provide Provider
+with a royalty-free non-exclusive license to use such assets, equipment and supplies necessary to provide the Professional Services.
+Manager shall consult with Provider to ensure that such assets, equipment and supplies are necessary and appropriate with respect to
+the delivery of the Professional Services. Unless otherwise herein specifically provided, all right, title and interest in and to such
+assets, equipment and supplies shall at all times remain with Manager. Provider shall not remove such assets, equipment or supplies from
+any Provider location without Manager’s prior written consent. Provider shall reimburse Manager for all of the costs and expenses
+related or incident to Manager’s obligations under this Section 2.12(a) , regardless of whether Manager provides such assets
+or procures such assets on Provider’s behalf. To the extent that there are pharmaceuticals that must under the law be directly
+procured by Provider, Manager shall assist Provider with such procurement. - 8 - (b) Computer Systems . Without limiting the generality of the provisions of Section 2.12(a) above, Manager shall provide Provider
+with computer hardware (including, without limitation, any and all necessary wiring) and software. Manager may determine from time to
+time that said hardware and software requires upgrading or replacement, the cost of which shall be the responsibility of Manager. All
+computer software, including, without limitation, such upgrades, shall remain the property of Manager during the Term of this Agreement
+and shall be returned to Manager upon termination hereof. Provider, and its Physicians and Non-Physician Practitioners during their employment
+or engagement with Provider, are hereby granted a non-exclusive right to use said software and hardware during the Term. The computer
+hardware, including, without limitation, any upgrades, provided to Provider may be retained by Provider following termination of this
+Agreement. 2.13 Physician Liaison . Owner shall provide certain liaison services on behalf of Manager pursuant to an agreement with Manager (the
+“ Physician Liaison Agreement ”) in the form attached hereto at Exhibit B . Each Physician Liaison shall
+perform, or arrange for Provider’s delegate to perform, certain administrative duties set forth in the Physician Liaison Agreement
+on behalf of Manager and facilitate communication and cooperation among the Physicians and Manager. In the event that a Physician Liaison
+Agreement expires or terminates for any reason, the Manager may enter into a Physician Liaison Agreement with a new individual of Manager’s
+choosing to serve as the liaison. 2.14 Accounting and Financial Administrative Services . Manager shall provide financial administrative services necessary and appropriate
+for Provider’s operations, including accounting, bookkeeping, capital and operating budgets, tax matters, payroll services, accounts
+receivable and accounts payable processing, and electronic data processing. If Provider has an affiliation or affiliations with an entity,
+other than Manager, for which financial administrative services are required ( i.e ., collection of accounts receivable), then Manager,
+at Manager’s sole discretion, shall provide financial administrative services necessary and appropriate to Provider’s other
+affiliation(s), and Manager shall have the right to assess Provider for these services in addition to any fees contemplated under this
+Agreement. 2.15 Tax Matters . Manager shall, on Provider’s behalf and at Provider’s expense, prepare and file, or cause to be prepared
+and filed by qualified professionals, the annual report, tax reports and tax returns required to be filed by Provider in compliance with
+all federal and state laws and regulations. All amounts payable with respect to any taxes shall be the responsibility of and shall be
+for the account of Provider. 2.16 Budgets . Manager shall prepare all capital and annual operating budgets for Provider in consultation with Provider. 2.17 Expenditures . Manager shall manage all cash receipts and disbursements of Provider, including, without limitation, the payment
+on behalf of Provider of all payroll and income taxes, assessments, licensing fees, insurance premiums, and other fees of any nature
+whatsoever in connection with its operation as the same become due and payable, unless payment thereof is being contested in good faith
+by Provider. - 9 - 2.18 Provider Offices . Manager will, at Provider’s cost and expense, provide or otherwise arrange for the provision to Provider
+of office space (the “ Offices ”) for such days and times as mutually agreed upon by Manager and Provider for
+Provider’s use in order to perform the Professional Services, and these Offices may be provided to Provider pursuant to a separate
+written sublease agreement as mutually agreed to by the Parties. The cost of providing the Offices to Provider will be reimbursed to
+Manager in accordance with the terms and conditions set forth in Section 9.2 and as may be set forth in any respective written
+sublease agreement. The Offices and leasehold improvements, whether currently existing or added during the Term, provided by Manager
+and utilized by Provider under this Agreement, at all times will be and remain the sole and exclusive property of the Manager. Provider
+shall use and occupy such Offices, and shall cause Physicians, Non-Physician Practitioners, and other Licensed Support Personnel to use
+and occupy the Offices, solely in connection with the business of Provider and the provision of Professional Services during Provider’s
+normal business hours as may be determined to be appropriate by Manager from time to time. Provider acknowledges that Manager may lease
+one or more Offices from a third party pursuant to the terms of an office lease or similar agreement or document (each, a “ Master
+Lease ”). Provider shall: (i) not do anything which would constitute a breach of the terms and conditions of any Master Lease;
+(ii) be bound by all provisions of each Master Lease, including without limitation, any terms relating to the termination of such Master
+Lease(s); (iii) not sublet or assign any Office or any part of such Office, or permit its use by others for any purpose unless Manager
+gives Provider its prior written consent, which consent may be withheld by Manager in Manager’s sole discretion; (iv) not pledge,
+loan, create a security interest in, or abandon possession of, an Office: (v) not attempt to dispose of any Office or any part of it;
+or (vi) not permit any liens, attachments, charge, or other judicial process to be incurred or levied on any Office or any part thereof.
+Manager shall ensure that such Offices and Master Leases comply with all applicable laws and regulations, including applicable zoning
+regulations. Provider covenants and agrees that Manager and its agents and affiliates shall have reasonable access to each Office during
+regular business hours for purposes of inspection. Provider shall immediately notify Manager of any damage or loss to person or property
+at or in an Office to which Provider becomes aware. 2.19 Licenses . Manager shall apply for, obtain and maintain in the name and at the expense of Provider, all reasonable and necessary
+licenses, permits, registrations, certificates and Medicare, Medicaid and third party payor provider agreements required or appropriate
+in connection with the business and operation of the Clinic and Provider’s provision of Professional Services. Upon the request
+of Provider, Manager shall provide evidence to Provider of any licenses, permits, certificates, registrations and provider numbers. 2.20 Agency . Except as otherwise provided herein, Manager shall have access to Provider Accounts solely for the purposes stated herein
+and shall use all funds on deposit therein in accordance with the terms of this Agreement. 2.21 Litigation Management . Manager shall, at the expense of Provider, (a) manage and direct the defense of all claims, actions, proceedings
+or investigations against Provider or any of its officers, members, managers, employees or agents in their capacity as such, (b) manage
+and direct the initiation and prosecution of all claims, actions, proceedings or investigations brought by Provider against any person
+other than Manager, and (c) cancel, modify, or terminate any Contract for the breach of or default by any other party thereto. Manager
+shall: (i) promptly notify Provider of all legal actions filed on behalf of or (as Manager becomes aware thereof) against Provider; and
+(ii) provide all information or documentation requested by Provider regarding such legal actions. - 10 - 2.22 Training . Manager shall furnish training services to Provider with respect to all aspects of the operations of Provider (other
+than matters related to clinical decision-making), including, without limitation, administrative, financial, billing, compliance and
+equipment maintenance matters. 2.23 Quality Assurance and Utilization Management . Manager agrees to develop for Provider’s approval, and to implement for Provider,
+a quality assurance and improvement and utilization management program in accordance with recommendations made to Provider by Manager
+or as required by law or any third-party payor. Provider shall cause Physicians, Non-Physician Practitioners, and Licensed Support Personnel
+to participate in the development of such programs and to comply with the standards, protocols or practice guidelines established thereby. 2.24 Compliance; Policies and Procedures . Manager shall assist Provider in operating in compliance with all laws, and shall develop
+and implement a comprehensive corporate compliance plan for Provider that complies with all laws and other guidance published by the
+Office of Inspector General of the Department of Health and Human Services. Manager shall assist Provider in establishing a culture that
+fosters the prevention, detection and resolution of instances of misconduct. Manager shall be responsible for providing compliance training
+to Physicians, Non-Physician Practitioners, Licensed Support Personnel, Provider Support Personnel and all of Manager’s employees,
+contractors, or agents providing services under this Agreement. Manager shall ensure that Manager, all Licensed Support Personnel, all
+Provider Support Personnel, and all of Manager’s employees, contractors, or agents providing services under this Agreement comply
+with the corporate compliance plan. In addition to the corporate compliance plan, Manager shall develop, provide and revise all necessary
+policies and operating procedures pertaining to Provider’s business operations (the “ Policies ”). Upon
+request of Provider, Manager shall assist Provider in its development and implementation of clinical practice guidelines, which shall
+be subject to the ultimate approval of Provider. Nothing in this Section 2.24 shall be construed to give Manager any control or
+influence over the practice of medicine by Providers or any of the Physicians, Non-Physician Practitioners, or Licensed Support Personnel. 2.25 Patient Medical Records . Manager shall assist Provider in the completion, maintenance and storage of patient medical records,
+including by periodically reviewing medical records to confirm completeness. With regard to the privacy of medical records, Manager shall
+establish plans, policies and/or procedures designed to comply in all material respects with the Health Insurance Portability and Accountability
+Act of 1996 and regulations promulgated thereunder, as the same may be from time to time amended (“ HIPAA ”),
+including the Standards for Privacy of Individually Identifiable Health Information, the Security Standards for the Protection of Electronic
+Protected Health Information and the Standards for Electronic Transactions and Code Sets promulgated pursuant to HIPAA and any laws of
+any state where Provider conducts business relating to patient privacy and/or the security, use or disclosure of health care records. - 11 - 2.26 Disclaimer . To the extent Manager provides Provider with equipment or Offices, Provider acknowledges that Manager is not the manufacturer
+of the equipment or the manufacturer’s agent or the developer, architect or owner of the Offices. ACCORDINGLY, CLINIC HEREBY AGREES
+TO TAKE THE OFFICES, IF ANY, AND EQUIPMENT, IF ANY, IN AN “AS IS” CONDITION. MANAGER HEREBY DISCLAIMS ANY REPRESENTATION
+OR WARRANTY, EITHER EXPRESS OR IMPLIED, AS TO ANY MATTER WHATSOEVER RELATING TO THE EQUIPMENT OR THE OFFICES, INCLUDING WITHOUT LIMITATION.
+THE DESIGN OR CONDITION OF THE OFFICES AND THE EQUIPMENT AND THE OFFICES AND THE EQUIPMENT’S MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, DESIGN, CONDITION, QUALITY, CAPACITY, MATERIAL OR WORKMANSHIP, OR AS TO PATENT INFRINGEMENT OR THE LIKE. The Parties shall have
+the benefit of any existing manufacturers’ warranties. 2.27 Day-to-Day Services . Manager shall furnish or obtain all telephones, paging devices, office services (including secretarial, reception,
+scheduling, duplication, facsimile services and document disposal services), janitorial services, maintenance services, security services,
+and any other services of a similar nature reasonably necessary in connection with the day-to-day operations of Provider. 2.28 Waste Management . Manager shall arrange for the proper disposal of all medical and non-medical waste generated by Provider, provided
+that such waste is generated in the ordinary course of Professional Services. Provider and its Physicians, Non-Physician Practitioners,
+Licensed Support Personnel, and Provider Support Personnel shall comply with all guidelines established by Manager with respect to the
+disposal of Provider’s waste. 2.29 Manager’s Right to Subcontract . Manager may subcontract with other persons or entities for any of the Management Services
+that Manager is required to perform under this Agreement. 3. Marketing, Advertising, or Business Development . Manager may, at its sole discretion but in consultation with Provider, engage
+in advertising, marketing or other activities on behalf of Provider. 4. Professional Control Retained by Provider . Provider shall be responsible for and shall have complete authority, responsibility,
+supervision and control over its provision of Professional Services. Any purported delegation of authority by Provider to Manager that
+would require or permit Manager to engage in the practice of medicine or provide the Professional Services shall be prohibited and deemed
+ineffective, and Provider shall have the sole authority with respect to such matters. Manager shall not be required or permitted to engage
+in, and Provider shall not request Manager to engage in activities that constitute the practice of a licensed profession in any state
+in which Provider operates. Manager shall not direct, control, influence, restrict or interfere with the exercise of independent clinical,
+medical or professional judgment by Provider or any Physician, Non-Physician Practitioners, or other Licensed Support Personnel in providing
+Professional Services. In furtherance thereof, Manager shall not engage in any of the following: (i) assumption of responsibility for
+the care of patients; and (ii) any activity that involves the unlicensed practice of medicine. - 12 - 5. No Inducement; No Income Guarantee . Manager and Provider agree that they have reached agreement regarding the terms and conditions
+of this Agreement in accordance with a good faith determination of the fair market value thereof. Manager shall neither have nor exercise
+any control or direction over the number, type, or recipient of patient referrals and nothing in this Agreement shall be construed as
+directing or influencing such referrals. Nothing in this Agreement is to be construed to restrict the professional judgment of Provider
+or any Physician or Non-Physician Practitioner to use any facility where necessary or desirable in order to provide proper and appropriate
+treatment or care to a patient or to comply with a patient’s wishes. No part of this Agreement shall be construed to induce, encourage,
+solicit or reimburse the referral of any patients or business. The Parties acknowledge that neither this Agreement nor any other agreement
+between the Parties requires or encourages the referral of patients to one another or any of their respective affiliates. Each Party
+represents and warrants to the other that no payment made under this Agreement shall be in return for the referral of patients or business.
+Furthermore, Manager has not guaranteed to Provider that the arrangements contemplated hereunder will guarantee any amount of income
+to Provider. 6. Relationship of the Parties . The Parties expressly understand and agree that nothing contained in this Agreement shall be construed
+to create a joint venture, partnership, association, or other affiliation or like relationship between the Parties, it being specifically
+agreed that their relationship is and shall remain that of independent parties to a contractual relationship as set forth in this Agreement.
+The Parties agree that their respective employees shall not have any claim under this Agreement or otherwise against the other Party
+or any of the other Party’s affiliates for vacation pay, paid sick leave, retirement benefits, social security, worker’s
+compensation, health, disability, professional malpractice or unemployment insurance benefits or other employment benefits of any kind. 7. Responsibilities of Provider. 7.1 Physicians; Non-Physician Practitioners . Provider shall have the authority to engage (whether as employees or as independent contractors),
+promote, discipline, suspend and terminate the services of Physicians and Non-Physician Practitioners only to the extent required by
+applicable law; provided , however , that Provider shall retain that number of Physicians and Non-Physician Practitioners
+as are reasonably necessary and appropriate for the provision of the Professional Services as determined by Manager after consultation
+with Provider. Manager, after consultation with Provider, shall determine the salaries and provision of fringe benefits for Physicians
+and Non-Physician Practitioners. Nothing contained herein shall limit Provider’s duty and obligation to control all aspects of
+the practice of medicine, including, without limitation, clinical training and clinical supervision of the Physicians, and the care and
+safety of patients. Manager shall neither control nor direct any Physician or Non-Physician Practitioner in the performance of Professional
+Services. Notwithstanding the foregoing, Manager shall have the ability, as part of the Management Services, to establish guidelines
+for the hiring or retention of Physicians, Non-Physician Practitioners, and registered nurses, and Provider covenants to hire or retain
+as well as terminate Physicians and Non-Physician Practitioners in accordance with Manager’s guidelines. With the assistance of
+Manager, Provider shall establish work schedules for all Physicians and Non-Physician Practitioners necessary to ensure adequate coverage; provided that Manager shall control all non-clinical decisions relating to Licensed Support Personnel and Provider Support Personnel.
+Provider and its supervising Physician(s) shall have full responsibility for and shall supervise and control all medical or health related
+services provided by the registered nurses and Licensed Support Personnel. - 13 - 7.2 Licenses, Certifications, Standards of Care . Provider shall require each Physician and Non-Physician Practitioner to: (a) maintain
+without restriction all licenses, certifications, registrations and professional liability insurance necessary to provide the Professional
+Services; (b) perform all Professional Services in accordance with all laws and with prevailing and applicable standards of care and
+in accordance with the Policies (subject to the exercise of independent professional judgment in accordance with Section 4 herein);
+and (c) maintain his or her skills through continuing education and training. 7.3 Cooperation with Manager on Billing . Provider shall, and Provider shall require all Physicians and Non-Physician Practitioners
+to, provide Manager with complete and accurate charge slips, claims or encounter reports and other similar documentation under a system
+administered and managed by Manager, whether as part of a hard copy or electronic record, specifically identifying items or services
+furnished and, to the extent applicable, service and diagnosis codes, drug codes, or supply codes, in a form and substance as indicated
+by Manager in advance from time to time. Provider shall be responsible for all coding and billing decisions with respect to the provision
+of Professional Services to Provider’s patients, which shall include the selection of codes and services submitted for payment.
+Manager shall engage in the preparation and submission of such claims for payment subject to the billing and coding decisions made by
+Provider. Nothing in this Agreement shall be construed to limit Manager’s duties under Section 2.3 of this Agreement. 7.4 Peer Review . Provider shall implement appropriate peer review and corrective action procedures for the Physicians. Provider shall
+provide Manager with prompt notice of any complaints relating to any Physicians or arising out of the Professional Services rendered. 7.5 Actions Requiring Manager’s Approval . Notwithstanding anything herein to the contrary, Provider agrees that the following
+actions shall require prior written approval of Manager: (a)
+The issuance of membership interests of Provider or of any security convertible into Provider membership interests; (b)
+Commencing any new Professional Service or terminating or materially modifying the types of Professional Services or other services furnished
+by Provider, except where Provider reasonably determines that such change is required by law in which case Provider shall give such written
+notice promptly; - 14 - (c)
+The payment of any dividends, profits, or capital gains on Provider’s membership interests or other distribution to the Owner.
+Notwithstanding this Section 7.5(c) , Provider shall pay Owner cash distributions in respect of his or her respective membership
+interests in an amount necessary for payment of any applicable federal, state, and local income tax liabilities attributable to taxable
+income of Provider that is properly allocated to Owner; (d)
+Any consolidation of Provider; (e)
+Any sale, assignment, pledge, lease, exchange, transfer or other disposition, including, without limitation, a mortgage or other security
+device, of assets, leases or equity of the Provider, including Provider’s accounts receivable; (f)
+Any purchase or other acquisition of assets at any aggregate cost to Provider exceeding One Thousand Dollars ($1,000.00); (g)
+Any incurrence of loans or other indebtedness by Provider, or any grant of a lien, security interest or other encumbrance on the assets
+of Provider; (h)
+Any reclassification or recapitalization of the membership interests of Provider; (i)
+Any redemption, sale or purchase of the membership interests of Provider; (j)
+The dissolution or liquidation of Provider; (k)
+Subject to the terms and conditions set forth under Section 7.1 , the authorization for the employment or discharge of any individual,
+the engagement or termination of any independent contractor, or the execution and delivery of any employment agreements or contracts
+with employees, independent contractors or consultants, or any amendments, modifications or terminations thereof; (l)
+The entering into of any contract by Provider committing Provider to incur more than One Thousand Dollars ($1,000.00) in expenses on
+an annual basis; (m)
+Any amendment to a contract between Provider and a Physician or Non-Physician Practitioner; and (n)
+The creation of any indebtedness or any other obligation of Provider to Owner. - 15 - 7.6 Provider Governing Documents . Provider shall consistently and uniformly utilize its governance and operational documents (including
+but not limited to its articles of organization, operating agreement, employment agreements and independent contractor agreements with
+Physicians and Non-Physician Practitioners) in the conduct of its business and shall comply with and require performance of all of the
+provisions contained therein. Provider hereby agrees that, after Manager’s approval of these governance and operational documents,
+no revision or modification or termination shall be made to these governance and operational documents, and no new agreement or arrangement
+affecting the ownership or voting of the equity of Provider shall be made, without Manager’s reasonable prior written approval
+thereof. 7.7 Scope . Provider shall provide all of its office-based services at the Offices and shall not provide such services at other locations
+unless the provision of such services at such other locations is contemplated by an approved budget or if necessary for immediate treatment
+of an applicable emergency clinical condition. If Provider provides services at locations not contemplated under an approved budget or
+otherwise within the scope of this Agreement, it shall be a breach of this Agreement, and, among other things, Provider, and not Manager,
+shall be responsible for all costs associated with such out of scope activities. 7.8 Security Agreement . Except to the extent the granting of a security interest is limited by application of law with respect to
+the Government Lockbox Account, Provider and Manager shall execute a Security Agreement in the form attached as Exhibit C , which
+shall be executed and attached, that grants and assigns to Manager a continuing security interest in all of Provider’s right, title
+and interest in: (i) all furniture, fixtures, equipment and supplies, (ii) all leases, whether for personal or real property, (iii) all
+accounts, all payments and rights to payment from all sources, including, without limitation, those that are not evidenced by instruments
+or chattel paper, and whether or not they have been earned by performance, (iv) deposit accounts, (v) proceeds of letters of credit of
+which Provider is named beneficiary, (vi) general intangibles, (vii) contract rights, (viii) chattel paper, (ix) instruments, (x) documents,
+(xi) insurance proceeds, and (xii) all other indebtedness and obligations whatsoever owing to or owned or acquired by Provider, together
+with all instruments and all documents of title representing any of the foregoing, all rights in any property that the same may represent,
+and all right, title, security and guarantees with respect to each of the foregoing, whether now owned or hereafter acquired (the “ Collateral ”).
+Provider shall execute and deliver, in a form acceptable to Manager, all documents that are reasonably necessary to perfect and maintain
+the security interest in its Collateral, including, without limitation, financing statements, or any other security agreement, statements
+or notices that Manager may, from time to time, present to Provider, and which Manager may file, record, or disclose as Manager may determine. 8. Compliance . The Parties agree to cooperate with one another in the fulfillment of their respective obligations under this Agreement,
+and to comply with all applicable laws, ordinances, statutes, regulations, directives, orders, or other lawful enactments or pronouncements
+of any federal, state, municipal, local or other lawful authority and all third party payor requirements. Manager further agrees to comply
+with all applicable federal and state laws, regulations and guidance in the performance of its duties to provide Management Services
+under this Agreement. - 16 - 9. Payments and Fees. 9.1 Management Fee . As compensation for the Management Services provided by Manager under this Agreement, Provider shall pay fees
+to Manager as set forth in Schedule 2 (the “ Management Fee ”). In any state in which Provider operates
+that restricts Manager from engaging in or being compensated for advertising, marketing, business development or similar activities,
+such activities will be addressed in a separate agreement and will not be considered “Management Services” for purposes of
+determining the Management Fee in this Section 9.1 . Manager shall withdraw the Management Fee for each full or partial calendar
+month of Management Services provided during the Term from any Provider Account on the 15th day of the month following each calendar
+month. Manager shall, upon request from Provider, furnish Provider with a statement detailing the Management Fee and all expenses and
+compensation due to Manager for the immediately preceding month. 9.2 Reimbursement of Costs and Expenses . In addition to the Management Fee, Manager shall be entitled to full reimbursement (without
+mark-up) for all costs, expenses and liabilities paid or satisfied by Manager in connection with its provision of Management Services
+under this Agreement or otherwise arising out of the operation, ownership or maintenance of the business of Provider. Manager shall,
+upon request from Provider, submit an invoice to Provider, dated no earlier than the thirtieth (30 th ) day of the month following
+the month in which the costs and expenses being invoiced were incurred. Each such invoice shall state with reasonable detail the costs
+and expenses that were incurred. 9.3 Application of Payments. (a)
+Provider hereby directs Manager to apply Provider’s Gross Revenues monthly for the following purposes, in the order of priority
+set forth below: (1)
+to pay any refunds or other amounts owed to patients or third party payors; (2)
+to pay all cumulative direct costs and expenses of operating Provider’s business, including, without limitation, insurance premiums,
+payroll and benefits for Provider’s employees, marketing expenses, supply expenses, equipment purchase and lease expenses, auditing
+and tax preparation fees and fees of professional advisors, such as attorneys, taxes of Provider, including federal, state and local
+income, sales, use and other taxes and tax distributions payable to Owner to pay any federal, state and local income tax liabilities
+attributable to taxable income of Provider that is allocated to Owner; (3)
+to pay all cumulative direct or indirect expenses incurred by Manager (including, without limitation, an allocable percentage of Manager’s
+corporate overhead) in providing the Management Services, and in carrying out its duties hereunder on behalf of Provider; and (4)
+subject to Section 9.3(b) , to pay Manager the Management Fee. - 17 - (b)
+If, at any time, Provider’s Gross Revenues are insufficient to cover all, or a portion of, the Management Fee that may be due to
+Manager pursuant to this Agreement, such amount of the Management Fee that is at any time owed to Manager (including any amounts not
+paid in any prior periods), but which is not paid when due, shall be paid by Provider to Manager in the immediately-succeeding month
+(together with the Management Fee due in such succeeding month) with interest at the prime rate per annum, as published in the Wall Street
+Journal on the date such shortfall originates, from the due date to the date payment is actually made to Manager; provided that
+such payment must be made only to the extent Provider has sufficient resources to pay it in such month after payment of the obligations
+outlined in the foregoing Sections 9.3(a)(1) to 9.3(a)(3) that are due and payable at such time, or, in the event previously
+not paid pursuant hereto, at such time Provider has sufficient resources to pay it after payment of the obligations outlined in the foregoing Sections 9.3(a)(1) to 9.3(a)(3) that are due and payable at such time. 9.4 Evaluation of Reasonableness . The Parties agree that the Management Fee reflects the fair market value of the Management Services.
+Payment of the Management Fee is not intended to be and shall not be interpreted or applied as permitting Manager to share in or split
+Provider’s fees for the Professional Services, but is acknowledged as the Parties’ negotiated agreement as to the reasonable
+fair market value of the Management Services furnished by Manager pursuant to this Agreement and related agreements, considering the
+nature and extent of the Management Services required and the investment made by Manager. 10. Term and Termination. 10.1 Term . This Agreement shall have an initial term commencing as of the Effective Date and continuing in full force and effect for
+ten (10) years (the “ Initial Term ”) and shall renew automatically for additional five (5) year terms thereafter, unless
+terminated as provided herein (the Initial Term and any subsequent terms shall be referred to as the, “ Term ”). 10.2 Termination by Manager Without Cause . Manager may terminate this Agreement at any time without cause upon ninety (90) days advance
+written notice. 10.3 Immediate Termination By Manager . Manager shall have the right, but not the obligation, to terminate this Agreement immediately
+upon notice to Provider of any of the following events: (a)
+the cancellation or non-renewal of the professional or malpractice insurance of Provider, any member of Provider or any Physician or
+Non-Physician Practitioner employed or engaged by Provider (other than due to the failure to pay premiums); (b)
+the dissolution of Provider; (c)
+if Provider participates in any Federal Healthcare Program(s), the suspension or exclusion of Provider from same; - 18 - (d)
+the suspension or exclusion of any member of Provider, Physician, or any Non-Physician Practitioner (as may be applicable) who is employed
+or engaged by Provider from any Federal Healthcare Program provided that Provider did not terminate the employment or engagement of such
+employee or contractor within thirty (30) days of becoming aware of such fact; (e)
+the date upon which any of the membership interests of Provider are transferred or attempted to be transferred voluntarily, by operation
+of law or otherwise, to any person without the prior written approval of Manager; (f)
+the merger, consolidation, reorganization, sale, liquidation, dissolution, or other disposition of all or substantially all of the membership
+interests or assets of Provider without the prior written approval of Manager; (g)
+failure of Provider to pay the Management Fee in the time frames set forth in Section 9 ; (h)
+Provider materially altering or changing the scope of the Professional Services furnished by Provider; or (i)
+Provider’s breach of any provision of Section 12 herein. 10.4 Immediate Termination by Provider . Provider shall have the right, but not the obligation, to terminate this Agreement immediately
+upon notice to Manager of the suspension, exclusion or debarment of Manager, any employee, contractor, or agent of Manager, or any Provider
+Support Personnel or Licensed Support Personnel provided by Manager, from any Federal Healthcare Program; provided that Manager did not
+terminate the employment or engagement of such employee, contractor, or agent of Manager, including any Provider Support Personnel or
+Licensed Support Personnel, within sixty (60) days of becoming aware of such fact. 10.5 Termination By Either Party . This Agreement may be terminated as follows: (a)
+by mutual written agreement of the Parties; (b)
+by either Party immediately upon the filing of a petition in bankruptcy or the insolvency of the other Party; or (c)
+by either Party, upon thirty (30) days advance written notice of a breach of any material provision of this Agreement by the other Party
+which is not cured within thirty (30) days after written notice is given, provided that such breach continues for a period of thirty
+(30) days after written notice is given by the non-breaching Party to the other Party. 10.6 Termination Obligations . In the event of termination or expiration of this Agreement, Provider shall pay all Management Fee and
+costs and expenses owing to Manager hereof up through and including the date of termination or expiration. In the event of termination
+or expiration of this Agreement, Manager will, upon request by Provider, immediately provide Provider a hardcopy or computer disk of
+all Provider-related billing, collection, accounts receivable, financial, personnel, and practice management data and information maintained
+by Manager in electronic form. Furthermore, after termination or expiration of this Agreement, the Parties shall reasonably cooperate
+with one another, and provide each other access to such books, records and information as either party may reasonably request, for purposes
+of defending against any subpoena, government or third-party payor investigation, audit, or any lawsuit or proceeding instituted by any
+third party and relating to any alleged or actual acts or omissions of either Party during the Term of this Agreement, or for any other
+legitimate purpose. Finally, any Loans owed by Provider to Manager at the time of termination will remain due and payable in accordance
+with their respective terms. - 19 - 10.7 Effect of Termination . In the event of termination or expiration of this Agreement, Provider shall no longer have any right to
+the equipment, supplies, personnel and Management Services provided by Manager hereunder. Neither Party shall have the right to use or
+receive Confidential Information (as such term is defined in Section 12.2 herein) in any form or fashion. Subject to Section
+10.6 and Section 11.5 , Provider shall immediately return to Manager any equipment, records and other items provided hereunder
+(including all copies thereof) and both Parties shall cease using any Confidential Information of the other Party. For avoidance of doubt,
+Provider shall maintain, retain, and store patient medical records in accordance with applicable law upon termination or expiration of
+this Agreement. In the event of termination under this Article 10 , the Parties will not enter into another agreement for the Management
+Services with each other on materially different financial terms prior to the one (1) year anniversary of the Effective Date. 11. Records and Record Keeping. 11.1 Access to Information . Provider hereby authorizes and grants to Manager full and complete access during the Term to all information,
+instruments and documents relating to Provider that may be reasonably requested by Manager to perform its obligations hereunder and shall
+disclose and make available to representatives of Manager for review and photocopying all relevant books, agreements, papers and records
+of Provider. 11.2 Manager’s Records and Systems . At all times during and after the Term, all business records and information, including,
+without limitation, all books of account and general administrative records and all information generated under or contained in the management
+information system pertaining to Provider, relating to the business and activities of Manager, shall be and remain the sole property
+of Manager. No provision in this Agreement shall be interpreted to limit in any way Provider’s access to, and Manager shall provide
+Provider with full access to, Provider’s financial and business information, including but not limited to bank statements, cash
+disbursements, cash receipts, accounts payable and receivable, and contractual obligations of any kind. 11.3 Manager’s Electronic Systems . Provider acknowledges that Manager is the sole owner of any proprietary electronic records
+systems/software and that Provider shall have no license or other right to copy, use, or transfer any rights to such systems/software,
+except for the right of access to the patient medical records as set forth herein as required by law and as necessary to provide the
+Professional Services. - 20 - 11.4 Confidentiality of Records . Manager and Provider will adopt procedures to assure the confidentiality of the records relating to
+the operations of Manager and Provider, including, without limitation, all statistical, financial and personnel data related to the operations
+of Manager and Provider that is not otherwise available to third parties publicly or by law. 11.5 Maintenance, Retention and Storage of Records . The Management Services shall include oversight of the maintenance and storage
+of all patient medical records of Provider in its possession in accordance with applicable law, which patient medical records are, for
+the avoidance of doubt, owned by Provider. Manager shall maintain patient medical records for a minimum of seven (7) years from the last
+date of service to the patient, and longer if required by law. Provider shall have access to all patient medical records as necessary
+to defend against any subpoena, government or third-party payor investigation, audit, or any lawsuit or proceeding instituted by any
+third party and relating to any alleged or actual acts or omissions of Provider. 11.6 Privacy and Security of Medical Records . The Parties agree to discharge their respective duties hereunder in accordance with the
+applicable provisions of HIPAA and the regulations promulgated thereunder and all applicable state and federal laws governing the privacy
+and security of medical records. In furtherance of the foregoing, the Parties shall execute the HIPAA Business Associate Addendum attached
+as Exhibit D . 12. Protective Covenants. 12.1 Confidential Information . The Parties expressly acknowledge that, pursuant to this Agreement, each Party and its respective officers,
+members, managers, shareholders, directors, employees, agents and contractors will be given access to, and be provided with, business
+methods, trade secrets and other proprietary information of the other Party in connection with their respective duties and activities.
+Each Party expressly acknowledges and agrees that Confidential Information, as defined below in Section 12.2 , is proprietary and
+confidential and if any of the Confidential Information was imparted to or became known by any persons engaging in a business in any
+way competitive with that of the other Party, including, without limitation, the Party receiving Confidential Information and its members,
+shareholders, officers, directors, managers, employees, agents and contractors, such disclosure would result in hardship, loss, irreparable
+injury and damage to the non-disclosing Party, the measurement of which would be difficult, if not impossible, to determine. Accordingly,
+each Party expressly agrees that the other Party has a legitimate interest in protecting the Confidential Information and its business
+goodwill, that it is necessary for each Party to protect its business from such hardship, loss, irreparable injury and damage, that the
+following covenants are a reasonable means by which to accomplish those purposes, and that violation of any of the protective covenants
+contained herein shall constitute a breach of trust and is grounds for immediate termination of the Agreement and for appropriate legal
+action for damages, enforcement and/or injunction. - 21 - 12.2 Trade Secrets, Proprietary and Confidential Information . For purposes of this Agreement, “ Confidential Information ”
+is information obtained by a Party (“ Receiving Party ”) from or regarding the other Party (“ Disclosing
+Party ”) and includes, without limitation: (a) lists containing the names of past, present and prospective clients, patients,
+vendors, or suppliers; (b) the past, present and prospective methods, procedures and techniques utilized in identifying prospective clients
+or patients and in soliciting the business thereof; (c) the past, present and prospective methods, procedures and techniques used in
+the operation of the Party’s business, including, without limitation, the methods, procedures and techniques utilized in marketing,
+provision of services and pricing; (d) compilations of information, records and processes which are owned by a Party and/or which are
+used in the operation of the Party’s business; (e) statistical, personal, client information, private information concerning a
+Party; (f) historical and financial information, business strategies, operating data, organizational and cost structures, product descriptions,
+pricing information, technology, know-how, processes, software, databases, trade secrets, contracts; and (g) any information directly
+or indirectly obtained pursuant to this Agreement (including the terms and conditions of this Agreement). Notwithstanding the foregoing,
+Confidential Information shall not include information: (i) which is or becomes part of the public knowledge or literature, not as a
+result of any breach of the provisions of this Agreement or (ii) which is lawfully disclosed, without any restriction on additional disclosure,
+to the receiving Person by a third party who is free lawfully to disclose the same. All Confidential Information is the property of the
+Disclosing Party and shall include proprietary information protected under the Uniform Trade Secrets Act. Receiving Party shall not,
+and shall require that its personnel not, disclose to any Person or entity, directly or indirectly, either during the Term or at any
+time thereafter, any Confidential Information, or use any Confidential Information other than in the course of meeting such entity’s
+obligations under this Agreement unless such Confidential Information is reasonably necessary in order for Provider to litigate any claim
+against Manager. In the event the disclosure of Confidential Information is required by applicable law, an order of a court having competent
+jurisdiction or under subpoena from an appropriate government agency, Receiving Party shall use its reasonable best efforts to consult
+with Disclosing Party prior to making such required disclosure. Receiving Party agrees to return all Confidential Information to Disclosing
+Party, at Receiving Party’s expense, upon the termination of this Agreement. This provision shall survive the termination of this
+Agreement. 12.3 Trade Names and Service Marks . Provider shall not, absent Manager’s prior written consent, use the trade names or service
+marks of Manager other than in a manner approved by Manager. 12.4 Intellectual Property Ownership . Provider acknowledges and agrees that all copyrights, trademarks, inventions, and other intellectual
+property and proprietary rights conceived, developed or created by Provider during or in connection with the provision of Professional
+Services or Provider’s receipt of the Management Services or otherwise owned by Provider through its employment of the Physicians
+whether complete or works in progress, whether prepared or acquired by Provider, the Physicians or by any third party (collectively “ Provider
+Work Product ”) shall be solely owned by Manager. Provider agrees to assign and does hereby assign to Manager any and all
+right, title and interest in and to such Provider Work Product. Provider Work Product shall include, but not be limited to, all information,
+data, reports, studies, writings, programs, methods, forms, systems, services, designs, marketing and other ideas and concepts, products
+or processes, tests, techniques, developments, inventions, discoveries, innovations or materials (and any improvements or know-how related
+to any of the foregoing) developed, conceived, created, invented, contributed to, reduced to practice, or authored by Provider (either
+solely or jointly with another or others) in the course of providing the Professional Services or receiving the Management Services or
+otherwise owned by Provider through its employment of the Physicians provided, however, that Provider Work Product shall not include
+patient health information protected by applicable law, including PHI (as defined in Exhibit D ) Use and disclosure of PHI shall
+be governed by the Parties’ HIPAA Business Associate Addendum. Provider agrees to at all times promptly disclose to the Manager
+in such form and manner as the Manager may reasonably require, any Provider Work Product, particularly including, but not limited to,
+Provider Work Product subject to protection as Confidential Information (as described in Section 12.2 ), or which may be patentable
+or copyrightable. Provider shall deliver the originals and all copies of any Provider Work Product to the Manager promptly upon the Manager’s
+request or the termination, for cause or otherwise, or expiration of this Agreement. - 22 - 12.5 Further Assurances . If by operation of law or otherwise Provider or the Physicians acquire any ownership rights in any of the
+intellectual property rights held by Manager (“ Manager IP Rights ”) or Provider Work Product, by virtue of their
+respective activities pursuant to this Agreement or otherwise, such rights shall automatically vest in, or if not legally possible, be
+assigned promptly without restriction upon request to, Manager. To the extent any such rights cannot be assigned under applicable law,
+and to the extent allowed by applicable law, Provider and the Physicians hereby waive such rights and hereby consent to any action of
+the Manager that otherwise would violate such rights in the absence of such waiver or consent. Provider agrees to perform such acts as
+Manager may request, at Provider’s expense, in order to protect or confirm Manager’s interest in any of the Manager IP Rights,
+Provider Work Product or in any other intellectual property owned by Manager, including executing and delivering, without additional
+compensation, any and all documents that Manager reasonably determines may be necessary or desirable to perfect Manager’s ownership
+of the Manager IP Rights, Provider Work Product or other intellectual property owned by Manager from time to time. Provider will not,
+and will not permit anyone else to, use, adopt, register or attempt to register any Manager IP Rights or Provider Work Product. This Section 12.5 shall survive expiration or termination of this Agreement. 12.6 Non-Solicitation; Non-Disparagement; Goodwill . Provider and Owner (during the time period that the Owner holds an equity interest
+in Provider) agree that he, she or it shall not, during the Term, for any cause whatsoever, directly or indirectly, take any action that
+constitutes, results or may reasonably be expected to result in: (i) soliciting, diverting or interfering with any relationship that
+Manager or any of its affiliates has with any patients, health care providers or suppliers; (ii) soliciting the termination of, or diverting
+or interfering with any relationship that Manager has with any person or entity affiliated with it or any of its affiliates as an independent
+contractor, supplier or provider; (iii) entering into any agreement, the purpose of which would violate this Section 12.6 ; and
+(iv) soliciting, inducing or encouraging any individual employed or engaged by or affiliated with Manager or any of its affiliates (presently
+or in the then most recent twelve (12) month period) to curtail or terminate such affiliation or employment, or take any action that
+results in, or might reasonably be expected to result in any employee or contractor ceasing to perform services for Manager or its affiliates.
+Nothing in this Section 12.6 is intended to prohibit ordinary course employment decisions or the placement of general advertisements
+for employment, or to prohibit either Party or any of its affiliates who is a practicing physician from engaging in the professional
+practice of medicine or exercising such person’s independent medical judgment, without consideration for any pecuniary interests
+of the applicable physician, nor to restrict patient choice or require the referral of any patients for any service provided by either
+Party or its affiliates. Additionally, nothing in this Section 12.6 is intended to prohibit the Owner from providing emergency
+medical services to any patient or providing charity care as a medical professional. Each of Manager, Provider and Owner agrees that
+it shall not, during the Term and for a period of twelve (12) months following the termination of this Agreement, make any derogatory
+or disparaging statement or communication regarding the other Parties or their respective affiliates or employees. Each Party acknowledges
+and agrees that this Section 12.6 is intended to protect each Party’s legitimate business interests, including Manager’s
+substantial investment in managing Provider’s non-clinical operations. - 23 - 12.7 Survival of Covenants . Each covenant in this Article 12 shall be construed as an agreement independent of any other provision
+of this Agreement, unless otherwise indicated herein, and shall survive the termination of this Agreement, and the existence of any claim
+or cause of action of either Party against the other Party, whether predicated on this Agreement or otherwise, shall not constitute a
+defense to the enforcement of such covenant. 12.8 Extension of Restrictive Periods . If a Party violates the protective covenants set forth in this Article 12 and the aggrieved
+Party brings legal action for injunctive or other relief hereunder, the aggrieved Party shall not, as a result of the time involved in
+obtaining the relief, be deprived of the benefit of the full restrictive periods of the protective covenants contained in this Article
+12 . Accordingly, such restrictive periods for the purposes of this Article 12 shall be deemed to have a duration of the respective
+time periods stated in this Article 12 computed from the date relief is granted, but reduced by the time between the period when
+the restriction began to run and the date of the first violation of the covenant by such Party. 12.9 Specific Performance and Other Remedies . The Parties understand and acknowledge that violation of this Article 12 will
+cause irreparable harm to the non-violating Party, the exact amount of which will be impossible to ascertain, and for that reason the
+Parties agree that a Party shall be entitled to seek, without the necessity of showing any actual damage (unless required by law), from
+any court of competent jurisdiction temporary or permanent injunctive relief and/ or specific performance of this Agreement restraining
+a Party or any person from any act prohibited by this Article 12 . Nothing in this Section 12.9 shall limit a Party’s
+right to recover any other damages or remedies to which it is entitled as a result of the other Party’s breach. If any one or more
+of the provisions of this Article 12 or any word, phrase, clause, sentence or other portion of this Article 12 shall be
+held to be unenforceable or invalid for any reason, such provision or portion of provision shall be modified or deleted in such a manner
+so as to make this Article 12 , as modified, legal and enforceable to the fullest extent permitted under applicable law. - 24 - 12.10 Severability of Restrictive Covenants; No Right of Set Off . The Parties each expressly agree and stipulate that the covenants
+and agreements contained in this Article 12 are separate, severable and divisible, and in the event any portion or portions of
+the covenants and agreements contained herein are declared invalid or unenforceable by any court of competent jurisdiction, the validity
+of the remaining covenants and agreements shall not be affected thereby. In addition, the enforceability of the covenants and agreements
+contained in this Article 12 shall not in any way be affected by any claim, action, cause of action, defense or right which Provider
+or an Owner may have against Manager, it being the intention of the Parties that Manager have the right to enforce the covenants and
+agreements contained in this Article 12 , regardless of the existence of any such claim, action, cause of action, defense or right. 13. Indemnification. 13.1 Provider Indemnification . Provider hereby agrees to defend, indemnify and hold Manager and its affiliates and their respective
+officers, members, managers, employees, successors and assigns (“ Manager Indemnified Parties ”) harmless from
+and against any and all liabilities, causes of action, damages, losses, demands, claims, penalties, judgments, costs and expenses (including,
+without limitation, reasonable attorneys’ fees and related costs) of any kind or nature whatsoever (“ Losses ”)
+that may be sustained or suffered by any Manager Indemnified Party in any way caused by or arising from: (i) Provider’s provision
+of Professional Services, or (ii) any breach by Provider of any of its representations, warranties, covenants, obligations or duties
+under this Agreement and any other agreement entered into hereunder, in each case if, and only to the extent to which, such Losses are
+not (i) covered by Provider’s insurance, or (ii) caused by the gross negligence or willful misconduct of Manager or a Manager Indemnified
+Party. 13.2 Manager Indemnification . Manager hereby agrees to defend, indemnify and hold Provider and Owner and its affiliates and their respective
+members, managers, officers, employees, successors and assigns (“ Provider Indemnified Parties ”) harmless from
+and against any and all Losses that may be sustained or suffered by any Provider Indemnified Party in any way caused by or arising from:
+(i) the performance of, or failure to perform, of the Manager or any subcontractor of Manager’s duties under this Agreement, or
+(ii) any breach by Manager of any of its representations, warranties, covenants, obligations, or duties under this Agreement and any
+other agreement entered into hereunder, in each case if, and only to the extent to which, such Losses are not (i) covered by Manager’s
+insurance, or (ii) caused by the gross negligence or willful misconduct of Provider, Owner or a Provider Indemnified Party. 13.3 Survival . The provisions of this Article 13 shall survive the termination of this Agreement for the duration of the applicable
+statute of limitation. 14. Notices . All notices, requests, consents, and other communications provided for by this Agreement shall be in writing, shall be
+addressed to the receiving Party’s address set forth below or to such other address as a Party may designate by notice hereunder,
+and shall be either: (i) delivered by hand, (ii) sent by recognized overnight courier, or (iii) sent by certified mail, return receipt
+requested, postage prepaid to such address as each Party shall provide the other Party from time to time, or (iv) delivered via electronic
+mail, return receipt requested, provided that any notice sent via electronic mail must also be accompanied by another form of notice
+set forth in the foregoing sub-sections (i)-(iii). Notice shall be deemed given (A) upon delivery, if hand delivered, (B) on the next
+business day, if sent next day delivery by a recognized overnight courier, (C) if sent by certified mail, five (5) business days following
+the day such mailing is made; and (D) if sent via electronic mail, followed by notice consistent with the foregoing sub-sections (i)-(iii),
+upon delivery (regardless of whether the recipient confirms such receipt as requested). - 25 - 15. Entire Agreement: Amendment . This Agreement, together with the exhibits attached hereto, contains the entire agreement between
+the Parties. No amendment, alteration or modification of this Agreement shall be valid unless in each instance such amendment, alteration
+or modification is expressed in a written instrument duly executed in the name of the Party or Parties making such amendment, alteration
+or modification. 16. General. 16.1 Duty to Cooperate . The Parties acknowledge that the Parties’ mutual cooperation is critical to the ability of Manager to
+perform successfully and efficiently its duties hereunder. Accordingly, each Party agrees to cooperate fully with the other in formulating
+and implementing goals and objectives that are in Provider’s best interest. 16.2 Limited Renegotiation . (a)
+This Agreement shall be construed to be in accordance with any and all federal and state laws, including, without limitation, laws governing
+the state and federal health care programs and private third party payors. In the event there is a change in such laws, whether by statute,
+regulation, agency or judicial decision or guidance that has any material effect on any term of this Agreement, then the applicable term(s)
+of this Agreement shall be subject to renegotiation, and either Party may request renegotiation of the affected term or terms of this
+Agreement, upon written notice to the other Party, to remedy such condition. (b)
+The Parties expressly recognize that upon request for renegotiation, each Party has a duty and obligation to the other only to renegotiate
+the affected term(s) in good faith and, further, each Party expressly agrees that its consent to proposals submitted by the other Party
+during renegotiation efforts shall not be unreasonably withheld provided such proposals would not materially alter the economic outcome
+of the Agreement. 16.3 Choice of Law . This Agreement shall be governed by, construed and enforced in accordance with the laws of the State of Delaware,
+without regard to the conflict of laws provisions thereof. Both Provider and Manager expressly waive any right that either Party has
+or may have to a jury trial of any dispute arising out of or in any way related to this Agreement or any breach thereof. 16.4 Waiver of Breach . The waiver by either of the Parties of a breach or violation of any provision of this Agreement shall not operate
+as, or be construed to be, a waiver of any subsequent breach of the same or other provision hereof. - 26 - 16.5 Force Majeure . Neither Party shall be liable or be deemed in default of this Agreement for any delay or failure to perform cause
+by Acts of God, war, disasters, strikes, or any similar cause beyond the control of either Party, including any federal, state and/or
+local directives limiting or prohibiting the provision of any Professional Services performed by Provider at the Clinic in response to
+SARS-CoV-2 (also known as COVID-19). 16.6 Severability . If any provision of this Agreement is held to be unenforceable for any reason, the unenforceability thereof shall
+not affect the remainder of this Agreement, which shall remain in full force and effect and enforceable in accordance with its terms. 16.7 Successors and Assigns . This Agreement shall bind each of the Parties and their respective successors and permitted assignees.
+Assignment by Provider or any Owner of any rights or obligations under this Agreement without the prior written consent of Manager is
+expressly prohibited. Manager is permitted to assign this Agreement or any rights or obligations hereunder to any third party (including
+any lender, purchaser, or affiliate of Manager) without the prior written consent of Provider and any such assignee is an intended third
+party beneficiary of this Agreement. 16.8 Headings . The headings contained in this Agreement are for reference purposes only and shall not affect in any way the meaning
+or interpretation of this Agreement. 16.9 Waiver . No term or condition of this Agreement shall be deemed to have been waived except by written instrument of the Party charged
+with such waiver. 16.10 Counterparts . This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of
+which shall be one and the same document. 16.11 Survival . The provisions of Article 12 , Article 13 and such other articles and sections of this Agreement which
+either expressly or by their natures survive expiration or other termination of this Agreement shall survive such expiration or other
+termination of this Agreement until each such provision expires in accordance with its respective terms. 16.12 Construction . This Agreement has been drafted and negotiated jointly by the Parties, and this Agreement will be construed neither
+against nor in favor of either Party. 16.13 Exhibits . Any exhibits attached are an integral part of this Agreement and are incorporated herein by this reference. 16.14 Condition Precedent . The effectiveness of this Agreement is contingent on the closing of the transactions contemplated in the
+Joint Venture Agreement. - 27 - 16.15 Remedies; Limitation of Liability . The remedies provided to the Parties by this Agreement are not exclusive or exhaustive, but
+cumulative and in addition to any other remedies the Parties may have, law or in equity. Notwithstanding the foregoing, the total limit
+of liability for Manager in connection with the Management Services or any other matter relating to this Agreement (whatever the basis
+for the cause of action) shall not exceed the cumulative value of the Management Fee paid to Manager during the twelve (12) months immediately
+prior to the termination or expiration of this Agreement. 16.16 Attorneys’ Fees . If legal action is commenced by either Party to enforce or defend its rights under this Agreement, the
+Prevailing Party in such action shall be entitled to recover its costs and reasonable attorney’s fees in addition to any other
+relief granted. The term “ Prevailing Party ” shall mean the Party in whose favor final judgment after appeal (if any)
+is rendered with respect to the claims asserted in the complaint, and the term “ reasonable attorney’s fees ”
+are those attorney’s fees reasonably incurred in obtaining a judgment in favor of the Prevailing Party. 16.17 Dispute Resolution. (a)
+Subject to this Section 16.17(a) , if at any time during the Term or upon its termination, any dispute or disagreement arises as
+to the validity, construction, enforceability or performance of this Agreement, which cannot be resolved by the mutual agreement of the
+Parties, and mindful of the high cost of litigation, not only in dollars but time and energy as well, the Parties intend to and do hereby
+establish a quick, final and binding out-of-court dispute resolution procedure to be followed in the unlikely event any controversy should
+arise out of or concerning the performance of this Agreement. Any controversy, dispute, or claim of whatever nature arising out of, in
+connection with, or in relation to the interpretation, performance or breach of this Agreement, including any claim based on contract,
+tort, or statute, shall be settled, at the request of any Party to this Agreement through arbitration to be conducted by the American
+Health Law Association. (b)
+Notwithstanding Section 16.17(a) , in the event that either Party has breached a provision of this Agreement that entitles the
+other Party to injunctive or other equitable relief, the non-breaching Party may commence an action for such relief in any federal or
+state court with jurisdiction. 16.18 No Third Party Beneficiaries . The Parties do not intend this Agreement to create any third party beneficiaries, including without
+limitation, individuals who are the subject of PHI. 16.19 Advice of Counsel . The Parties acknowledges that they have been advised to seek independent legal counsel for advice regarding
+the effect of the terms and provisions hereof, and have either obtained such advice of independent legal counsel, or have voluntarily
+and without compulsion elected to enter into and be bound by the terms of this Agreement without such advice of independent legal counsel. 16.20 Further Assurance : At any time, and from time to time, after the Effective Date, each Party will execute such additional instruments
+and take such action as may be reasonably requested by the other Parties to carry out the intent and purpose of this Agreement. [Remainder
+of Page Intentionally Left Blank] - 28 - IN
+WITNESS WHEREOF, the Parties hereto have executed this Agreement, as of the Effective Date. “Manager” “Practice” Wood
+    Violet Fertility LLC Wisconsin
+    Fertility and Reproductive Surgery Associates, S.C. By: /s/
+    Steve Shum By: /s/
+                                            Elizabeth Pritts, M.D. Name: Steve
+    Shum Name: Elizabeth
+    Pritts, M.D. Title: President Title: President Address
+    for Notices: Address
+    for Notices: Wood
+    Violet Fertility LLC Wisconsin
+    Fertility and Reproductive 5582
+    Broadcast Court Associates,
+    S.C. Sarasota,
+    Florida 342240 3146
+    Deming Way Email:
+    legal@invobio.com Middleton,
+    WI 53562 Attention:
+    Elizabeth Pritts, M.D. Email: With
+    a copy (which shall not constitute notice) to: With
+    a copy (which shall not constitute notice) to: Sheppard,
+    Mullin, Richter and Hampton LLP Palmersheim
+    Dettmann, S.C. 30
+    Rockefeller Plaza 1424
+    N. High Point Rd., Ste 202 New
+    York, NY 10112-0015 Middleton,
+    WI 53562 Attention:
+    Amanda L. Zablocki, Esq. Email:
+    palmersheim@pdbusinesslaw.com Email:
+    azablocki@sheppardmullin.com Attention:
+    Kevin J. Palmersheim [ Signature
+Page to Management Services Agreement ] IN
+WITNESS WHEREOF, the undersigned Owner has caused this Agreement to be executed as of the Effective Date, for the limited purpose of
+acknowledging and agreeing to those certain terms and covenants set forth in Sections 1.2(f) , 1.3 , 2.13, 7.5 , and 12.6 herein that by their express terms apply to Owner. “Owner” Elizabeth
+    Pritts Revocable Living Trust, Member /s/ Elizabeth Pritts,
+    M.D. By: Elizabeth
+    Pritts, M.D. Title: Trustee Address for Notices: Elizabeth Pritts, M.D. 3146 Deming Way Middleton, WI 53562 Email: Schedule
+1 CLINICAL
+LABORATORY SERVICES 1. Services . Upon receipt of a valid order from Provider, Manager will perform or facilitate the delivery of the Clinical Laboratory
+Services described below. 1.1 INVO Embryology . Upon receipt from Provider of sperm and eggs collected by Provider from patients, such patient materials are
+fertilized in a petri dish and then placed into an INVOcell. The INVOcell is then given to Provider for placement into the patient for
+incubation. After the incubation period, the Provider removes the INVOcell from the patient and returns it to the laboratory staff. Embryos
+are removed from the INVOcell and evaluated. As instructed by Provider, a number of viable embryos are placed into a transfer catheter,
+which is given to Provider for placement into the patient. Any remaining viable embryos are frozen and placed into cryogenic storage
+for up to three (3) weeks until pregnancy confirmation. If pregnancy is confirmed, such remaining embryos can be delivered to third-party
+long term storage facilities as specified by Provider and patient. If pregnancy is not confirmed, such remaining embryos may be thawed
+and transferred at Provider’s direction. 1.2 INVO Embryology with ICSI . This service is performed using the same steps described in Section 1.1 immediately above, except that
+in lieu of fertilizing the sperm and eggs in a petri dish, fertilization occurs via intracytoplasmic sperm injection (“ ICSI ”). 1.3 Andrology Services . Andrology services will include semen analysis, as well as sperm processing, preparation and cryopreservation.
+Cryogenically preserved sperm samples will be held for a period of up to three (3) weeks. 2. Fees . Provider shall pay Manager the fees described below for Clinical Laboratory Services. Such fees may be changed by Manager
+from time to time by thirty (30) days written notice to Provider. INVO Embryology $ 1000 INVO Embryology with ICSI $ 1000 Embryo cryopreservation $ 850 Semen analysis / sperm processing and preparation $ 150 Sperm sample cryopreservation $ 500 3. Payment Terms . Manager shall invoice Provider on a monthly basis for any Clinical Laboratory Services provided. Provider shall
+remit payment in full to the address listed on the invoice within fifteen (15) days of the date of the invoice. Any amounts payable by
+Provider hereunder and that remain unpaid more than fifteen (15) days after the invoice date shall be subject to a late charge equal
+to one and one-half percent (1.5%) per month, or the maximum amount permitted by law, whichever is less, calculated from the due date
+of the invoice until the date such amount is paid in full. 4. Accreditation . Manager shall employ or secure the services of accredited personnel, including but not limited to a lab director,
+embryologist and andrologist, to perform the Clinical Laboratory Services and to handle gametes, embryos and storage tanks. As soon as
+practicable after the Effective Date, Manager shall seek and secure accreditation with the College of American Pathologists or the Joint
+Commission on Accreditation of Healthcare Organizations to cover the provision Clinical Laboratory Services. Before the provision of
+any Clinical Laboratory Services, Manager shall apply for and receive a Clinical Laboratory Improvement Amendments license. - 1 - Schedule
+2 MANAGEMENT
+FEE 1. Management Fee . As compensation for the Management Services, Provider shall pay to Manager the Management Fee on a monthly basis
+as set forth in this Schedule 2 . The Management Fee shall equal the Net Pre-Tax Income of Provider attributable to Provider’s
+operations in the State of Wisconsin. In the event one of the Parties in good faith believes, based on advice of competent legal counsel,
+that the Management Fee may potentially violate applicable state or federal law, the Parties may adjust the Management Fee in such manner
+as to comply with applicable state or federal laws while preserving, as closely as possible, the financial substance of the Management
+Fee. 2.
+As used in this Schedule 2 , the following terms shall have the following meanings: (a)
+“ Cost of Provider’s Services ” means Provider’s expenses, and other reasonable and necessary operating
+expenses incurred by Provider in conducting its business. (b)
+“ Net Pre-Tax Income ” means Net Revenues less the total of the Cost of Provider’s Services, but without regard
+for the provision of income taxes. (c)
+“ Net Revenues ” means all Revenues net of refunds, repayments or recoupments. (d)
+“ Revenues ” means all reimbursement and cash collections which Provider receives or becomes entitled to receive for
+any services or sales of products or otherwise, including, without limitation, for the performance of the Professional Services. 3.
+The Parties recognize that, during the Term of this Agreement, the Management Services provided hereunder may change in size, scope and/or
+cost. In the event of any such change, the Parties agree to adjust the Management Fee to reflect the fair market value of the Management
+Services. In addition, at least sixty (60) days prior to the one (1) year anniversary of the Effective Date and at least sixty (60) days
+prior to each one (1) year anniversary thereafter, the Parties will review the Management Fee and make appropriate adjustments as the
+Parties may mutually agree to ensure that the Management Fee on a go-forward basis comports with the fair market value of the increased
+or decreased demand or cost for Management Services. In the event that the Parties are unable to agree to any such adjustment in the
+Management Fee, the existing Management Fee will remain in effect until such time as the Parties agree to an adjusted fee. [Remainder
+of Page Intentionally Left Blank] - 1 -
